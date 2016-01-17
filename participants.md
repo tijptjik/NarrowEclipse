@@ -49,6 +49,8 @@
 - [ ] Benjamin James
 - [ ] Taylor Wilson
 - [ ] Kirsty Rose
+- [ ] Connie Leung
+- [ ] Anis Sfeir
 
 
 # Guest List
