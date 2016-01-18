@@ -42,6 +42,8 @@
 - [ ] Ivo, ivo@cakefortiger.com
 - [ ] Toby, toby@cakefortiger.com
 - [ ] Christopher Tsoi, chris.t501@gmail.com
+- [ ] Ilissa Howard
+- [ ] Greg Austin
 
 
 # Foreign Invitees
