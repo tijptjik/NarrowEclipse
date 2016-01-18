@@ -8,6 +8,9 @@
 - [ ] William Lawrenson
 - [ ] Connie Leung
 - [ ] Anis Sfeir
+- [ ] Oliva Madrid
+- [ ] Egill, egillbjarki@gmail.com
+- [ ] Helga Björk Jónsdóttir, helgabjo@gmail.com
 
 
 # Overseas Participants 
@@ -21,24 +24,21 @@
 
 - [ ] Guy Freeman
 - [ ] Echo Jie Chen
+- [ ] Cesar Harada
 
 
 # Invitees
 
 - [ ] Ciosa Houlihan
 - [ ] Alexandre Beaulne
-- [ ] Oliva Madrid
 - [ ] Jane Pong
 - [ ] Jamie Edwards
 - [ ] Alex Bedwell
 - [ ] Richard Abs
 - [ ] Martin Liu
 - [ ] Maegan Cowan
-- [ ] Cesar Harada
 - [ ] Lucy Arthur
 - [ ] Dickson Kwong
-- [ ] Egill, egillbjarki@gmail.com
-- [ ] Helga Björk Jónsdóttir, helgabjo@gmail.com
 - [ ] Ivo, ivo@cakefortiger.com
 - [ ] Toby, toby@cakefortiger.com
 - [ ] Christopher Tsoi, chris.t501@gmail.com
