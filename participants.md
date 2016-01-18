@@ -25,12 +25,13 @@
 - [ ] Guy Freeman
 - [ ] Echo Jie Chen
 - [ ] Cesar Harada
+- [ ] Alexandre Beaulne
+- [ ] Dickson Kwong
 
 
 # Invitees
 
 - [ ] Ciosa Houlihan
-- [ ] Alexandre Beaulne
 - [ ] Jane Pong
 - [ ] Jamie Edwards
 - [ ] Alex Bedwell
@@ -38,7 +39,6 @@
 - [ ] Martin Liu
 - [ ] Maegan Cowan
 - [ ] Lucy Arthur
-- [ ] Dickson Kwong
 - [ ] Ivo, ivo@cakefortiger.com
 - [ ] Toby, toby@cakefortiger.com
 - [ ] Christopher Tsoi, chris.t501@gmail.com
