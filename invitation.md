@@ -15,7 +15,7 @@ Till this has become "a long long time ago", you can add the following to your c
 ```txt
       Event : Star Wars Episode VII Epilogue
 Coordinates : 4th Floor, 5 Min Street, Jordan, Kowloon
-       Time : 20:00, Saturday, 30 January, 2015
+       Time : 20:00, Saturday, 30 January, 2016
          +1 : Plus ones are welcome, just RSVP with their details
 ```
 
