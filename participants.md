@@ -18,6 +18,8 @@
 - [ ] Simone Trum
 - [ ] Rayla Heide
 - [ ] Isak Ladegaard
+- [ ] Benjamin Hall, needsmorerobots@gmail.com
+- [ ] Benjamin James
 
 
 # Unavailable
@@ -27,6 +29,9 @@
 - [ ] Cesar Harada
 - [ ] Alexandre Beaulne
 - [ ] Dickson Kwong
+- [ ] Ilissa Howard
+- [ ] Greg Austin
+- [ ] Christopher Tsoi, chris.t501@gmail.com
 
 
 # Invitees
@@ -41,9 +46,6 @@
 - [ ] Lucy Arthur
 - [ ] Ivo, ivo@cakefortiger.com
 - [ ] Toby, toby@cakefortiger.com
-- [ ] Christopher Tsoi, chris.t501@gmail.com
-- [ ] Ilissa Howard
-- [ ] Greg Austin
 
 
 # Foreign Invitees
@@ -58,8 +60,6 @@
 - [ ] Niels van der Linden
 - [ ] Dikkie Engelen
 - [ ] Kent Sutherland
-- [ ] Benjamin Hall, needsmorerobots@gmail.com
-- [ ] Benjamin James
 - [ ] Taylor Wilson
 - [ ] Kirsty Rose
 
