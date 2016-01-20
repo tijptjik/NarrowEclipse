@@ -19,6 +19,8 @@
 - [ ] Simone Trum
 - [ ] Rayla Heide
 - [ ] Isak Ladegaard
+- [ ] Benjamin Hall, needsmorerobots@gmail.com
+- [ ] Benjamin James
 
 
 # Unavailable
@@ -58,8 +60,6 @@
 - [ ] Niels van der Linden
 - [ ] Dikkie Engelen
 - [ ] Kent Sutherland
-- [ ] Benjamin Hall, needsmorerobots@gmail.com
-- [ ] Benjamin James
 - [ ] Taylor Wilson
 - [ ] Kirsty Rose
 
