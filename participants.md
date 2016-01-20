@@ -11,6 +11,7 @@
 - [ ] Oliva Madrid
 - [ ] Egill, egillbjarki@gmail.com
 - [ ] Helga Björk Jónsdóttir, helgabjo@gmail.com
+- [ ] Maegan Cowan
 
 
 # Overseas Participants 
@@ -27,23 +28,22 @@
 - [ ] Cesar Harada
 - [ ] Alexandre Beaulne
 - [ ] Dickson Kwong
+- [ ] Ilissa Howard
+- [ ] Greg Austin
+- [ ] Lucy Arthur
+- [ ] Christopher Tsoi, chris.t501@gmail.com
 
 
 # Invitees
 
-- [ ] Ciosa Houlihan
 - [ ] Jane Pong
+- [ ] Ciosa Houlihan
 - [ ] Jamie Edwards
 - [ ] Alex Bedwell
 - [ ] Richard Abs
 - [ ] Martin Liu
-- [ ] Maegan Cowan
-- [ ] Lucy Arthur
 - [ ] Ivo, ivo@cakefortiger.com
 - [ ] Toby, toby@cakefortiger.com
-- [ ] Christopher Tsoi, chris.t501@gmail.com
-- [ ] Ilissa Howard
-- [ ] Greg Austin
 
 
 # Foreign Invitees
