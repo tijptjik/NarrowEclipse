@@ -12,6 +12,9 @@
 - [ ] Egill, egillbjarki@gmail.com
 - [ ] Helga Björk Jónsdóttir, helgabjo@gmail.com
 - [ ] Maegan Cowan
+- [ ] Ivo, ivo@cakefortiger.com
+- [ ] Toby, toby@cakefortiger.com
+- [ ] Jane Pong
 
 
 # Overseas Participants 
@@ -38,14 +41,11 @@
 
 # Invitees
 
-- [ ] Jane Pong
 - [ ] Ciosa Houlihan
 - [ ] Jamie Edwards
 - [ ] Alex Bedwell
 - [ ] Richard Abs
 - [ ] Martin Liu
-- [ ] Ivo, ivo@cakefortiger.com
-- [ ] Toby, toby@cakefortiger.com
 
 
 # Foreign Invitees
