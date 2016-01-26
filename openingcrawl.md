@@ -65,6 +65,63 @@ under the of a narrow eclipse.
 
 Acolytes of the Narrow Eclipse
 
+Knowledge has fallen into myth
+
+spy network PHAROS
+
+Generations of war and oppression
+have exhausted the galaxy. The 
+NEW REPUBLIC and the FIRST ORDER
+are both as close to defeat as they
+are to victory. In their time of need
+to reach out for help of any kind.
+
+In their depeserate bid for help,
+they are both willing to
+
+The scheming Pharos, a pan-galactic spy network,
+
+sees hope where
+there is dispair,
+
+The cunning Pharos plays both sides
+and 
+
+Behind their power games, shrouds an audacious gambit: 
+
+
+Behind 
+
+
+The galactic reins lay are there for the tak. The First
+Order decimated. The New
+Republic obliterated. Yet
+there is hope.
+
+At long last Luke and Leia
+are reunited, training a new
+generation of Jedi to once
+and for all banish darkness.
+
+Little do they know that 
+behind the spy network PHAROS
+rises a scheming nemisis 
+
+
+
+The galaxy is left 
+
+The galaxy has come to trust 
+Metajj Vos. But behind her 
+
+The galaxy has come to mistake
+usefulness for trust, and the
+scheming Metajj Vos would have
+
+
+two enemies is all that
+is needed to defeat both
+
 ## References
 
 ### The Force Awakens 
