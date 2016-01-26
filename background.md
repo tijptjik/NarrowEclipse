@@ -6,3 +6,40 @@
 * The First Order loses most of its men on starkiller base.
 * The political foundation of the New Republic is rocked as the Hosnian System is completely destroyed.
 * Maz is still on Takanoka
+
+## Ship Names
+
+Aboard the Farq-9 a Corellian Corsair
+Chromosphere
+Stellar Prominence
+
+## Species
+
+[Weequay](http://starwars.wikia.com/wiki/Weequay)
+[Zabrak](http://starwars.wikia.com/wiki/Zabrak)
+[Togruta](http://starwars.wikia.com/wiki/Twi%27lek)
+
+## Character Names Pool
+
+Josie Sarkinn
+Tremmil Lonesi
+D'lore Mantra 
+Akari Ga-Funsi
+Way Smith
+Yvette Corell
+Orphoon Wellis
+Showzu Hare
+Mak Plosi
+Ti J've
+Vennegourd Prolassian
+Manji Toss
+Qaxis Quarll
+Pyremane Gello
+Theodore Karpman
+Sloan Netherbane
+Roth Hogan 
+Barb Lovells
+Gibson Mallick
+Harlan
+Rocco Cavalier
+Soren Yavinson

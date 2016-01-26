@@ -1,6 +1,7 @@
 # Participants 
 
-- [ ] Mart van de Ven
+- [x] Sherin Siew
+- [x] Mart van de Ven
 - [ ] Tom Grundy
 - [ ] Claudio Canzonetta
 - [ ] Matt Nodurft
@@ -8,66 +9,54 @@
 - [ ] William Lawrenson
 - [ ] Connie Leung
 - [ ] Anis Sfeir
-- [ ] Oliva Madrid
-- [ ] Egill, egillbjarki@gmail.com
-- [ ] Helga Björk Jónsdóttir, helgabjo@gmail.com
+- [x] Oliva Madrid
+- [ ] Egill Bjarki Jónsson
+- [ ] Helga Björk Jónsdóttir
 - [ ] Maegan Cowan
-- [ ] Ivo, ivo@cakefortiger.com
-- [ ] Toby, toby@cakefortiger.com
+- [ ] Ivo Hos
+- [ ] Toby Fung
 - [ ] Jane Pong
+- [ ] Alex Bedwell
+- [ ] Jamie Edwards
+- [x] Bill McCord
+- [x] Nadira Lamrad
+- [ ] YH Chia
+- [ ] Richard Abs
 
 
 # Overseas Participants 
 
 - [ ] Simone Trum
-- [ ] Rayla Heide
-- [ ] Isak Ladegaard
-- [ ] Benjamin Hall, needsmorerobots@gmail.com
+- [x] Rayla Heide
+- [x] Isak Ladegaard
+- [ ] Benjamin Hall
+- [ ] Niels van der Linden
+- [ ] Dikkie Engelen
+- [x] Ivar Posthumus
+- [x] Janneke Vissers
+- [ ] Dan Elias
+- [ ] Hayley Elias
 - [ ] Benjamin James
 
 
 # Unavailable
 
-- [ ] Guy Freeman
-- [ ] Echo Jie Chen
-- [ ] Cesar Harada
-- [ ] Alexandre Beaulne
-- [ ] Dickson Kwong
-- [ ] Ilissa Howard
-- [ ] Greg Austin
-- [ ] Lucy Arthur
-- [ ] Christopher Tsoi, chris.t501@gmail.com
-
-
-# Invitees
-
-- [ ] Ciosa Houlihan
-- [ ] Jamie Edwards
-- [ ] Alex Bedwell
-- [ ] Richard Abs
-- [ ] Martin Liu
-
-
-# Foreign Invitees
-
-- [ ] Dan Elias
-- [ ] Hayley Elias
-- [ ] Lisette Berndt
-- [ ] Ivar Posthumus
-- [ ] Janneke Vissers
-- [ ] Loes van Esch
-- [ ] Koen Taselaar
-- [ ] Niels van der Linden
-- [ ] Dikkie Engelen
-- [ ] Kent Sutherland
-- [ ] Taylor Wilson
-- [ ] Kirsty Rose
-
-
-# Guest List
-
-* Bill McCord
-* Irene Liu
-
-
+- Guy Freeman
+- Echo Jie Chen
+- Cesar Harada
+- Alexandre Beaulne
+- Dickson Kwong
+- Ilissa Howard
+- Greg Austin
+- Lucy Arthur
+- Christopher Tsoi
+- Martin Liu
+- Ciosa Houlihan
+- Irene Liu
+- Lisette Berndt
+- Loes van Esch
+- Koen Taselaar
+- Kent Sutherland
+- Taylor Wilson
+- Kirsty Rose
 
