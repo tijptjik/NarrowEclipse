@@ -144,8 +144,15 @@ YH Chia,,,
 
 ### Oligarch Bounty
 
-Niels van der Linden,,,
-Dikkie Engelen,,,
+|          Name          | Character | Species | Affiliation |
+|:----------------------:|:---------:|:-------:|:-----------:|
+| Niels van der Linden   | Plutarch Koine | Human | Finance Guild |
+
+|          Name          | Character | Species | Affiliation |
+|:----------------------:|:---------:|:-------:|:-----------:|
+| Dikkie Engelen   | Lady Neuville | Human | Finance Guild |
+
+
 
 ### Force Sensitive 'Recruitment'
 
