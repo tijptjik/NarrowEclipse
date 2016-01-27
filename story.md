@@ -2,6 +2,10 @@
 
 # Story
 
+## Aboard the Alexandria
+
+![](http://cdn.obsidianportal.com/assets/27609/RepublicC70Frigate-TCW.jpg)
+
 ## Biomorph Resonator Tech on Vesper V
 
 ![Vesper V](http://img2.wikia.nocookie.net/__cb20130114154426/starwars/images/e/e8/Starbasecarida.jpg)
@@ -19,6 +23,9 @@
 ![Kessel](http://vignette1.wikia.nocookie.net/starwars/images/a/ab/Spice_Mines_of_Kessel.png/revision/latest?cb=20140929054610)
 
 ## Acolytes of the Narrow Eclipse
+
+![](http://jkhub.org/index.php?app=downloads&module=display&section=screenshot&record=42600&id=2498&full=1)
+![](https://images-cdn.fantasyflightgames.com/filer_public/60/2b/602b5336-0fa5-43d5-990b-ce4934c9abbc/swa30-sunclouds.jpg)
 
 * How did the first order know where precisely on Jakku to land their Stormtroopers?
 

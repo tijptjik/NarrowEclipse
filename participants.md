@@ -44,10 +44,10 @@
 * Narrow Eclipse
 * First Order
 * Resistance
-* Luke & Leia
-* Droid
-* Plutarch
-* Force Sensitive 'Recruitment'
+* Skywalkers
+* Droid Resistance
+* Infinity Guild
+* Zygerrian Slave Empire
 
 # Unavailable
 

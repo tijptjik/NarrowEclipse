@@ -1,4 +1,6 @@
-# Roles 
+# Roles
+
+## Overview 
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
@@ -37,15 +39,13 @@
 |       Simone Trum      |       Itashi Flam      |     Unknown     |   Unknown  |         Unknown        |
 |     Benjamin James     |    Theodore Karpman    |     Unknown     |   Unknown  |         Unknown        |
 
+# Characters 
 
+## Protagonist
 
-
-## Protagonist // Dathomiri Pharos
-
-|          Name          | Character | Species | Affiliation |
-|:----------------------:|:---------:|:-------:|:-----------:|
-|       Sherin Siew      | Metajj Vos | Dathomiri | Pharos |
-
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|       Sherin Siew      |       Metajj Vos       |    Dathomiri    | Alexandria |     Narrow Eclipse     |
 
 With knowledge rarifying, it's gaining in value, rising in power. 
 
@@ -54,154 +54,190 @@ With knowledge rarifying, it's gaining in value, rising in power.
 
 ### Aboard the Alexandria
 
-|          Name          | Character | Species | Affiliation |
-|:----------------------:|:---------:|:-------:|:-----------:|
-|       Olivia Madrid      | C-6TS | Protocol Droid | Narrow Eclipse |
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|      Oliva Madrid      |          C-6TS         | Cybot Galactica | Alexandria |     Narrow Eclipse     |
 
 Responsible for Intergalactic Communications. Relays transmissions received from third parties.
 
-|          Name          | Character | Species | Affiliation |
-|:----------------------:|:---------:|:-------:|:-----------:|
-|     Mart van de Ven    | Tremmil Losi | [Umbaran](http://starwars.wikia.com/wiki/Umbaran) | Narrow Eclipse |
-
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|     Mart van de Ven    |      Tremmil Losi      |     Umbaran     | Alexandria |     Narrow Eclipse     |
 
 Navigator, and First Officer on the Alexandria. 
 
 
-### Biomorph Resonator Tech on Vesper V
+### Biomorph Resonator Tech
 
-Matt Nodurft,,,
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|      Matt Nodurft      |       Showzu Hare      |     Arkanian    |  Vesper V  |     Vesper Academy     |
 
-----
-1. Steal the technology without asking for it
-    - XXX Runs out after the Pharosi and confronts them, eventually losing the skirmish. 
-    - The Pharosi are now known as thieves. 
-    - Damanged BR Tech cannot be repaired.
-1. Pursuade that BR Tech needs to be tested under real world circumstances to confirm it works.
-    - The BR Tech is tested on Tremmil Losi. 
-    - The Pharosi aqcuire the tech, and XXX joins the Party.
 
-### Dark Matter Press 
+### Dark Matter Press
 
-Tom Grundy,,,
-Jane Pong,,,
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|       Tom Grundy       |        Mak Dent        |      Nikto      |   Lothal   |    Dark Matter Press   |
 
+
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|        Jane Pong       |      Josie Sarkinn     |     Nautolan    |   Lothal   |     Tauntaun House     |
 
 
 ### Spice Mines of Kessel
 
-[Kessel](http://starwars.wikia.com/wiki/Spice_mines_of_Kessel)
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|       Richard Abs      |      D'lore Mantra     |       Pyke      |   Kessel   |  Pyke Crime Syndicate  |
 
-Richard Abs,,,
-Ivo Hos,,,
-Toby Fung,,,
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|         Ivo Hos        |       Roth Hogan       |     Quarren     |   Kessel   |         Slaves         |
+
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|        Toby Fung       |      Yvette Corell     |     Quarren     |   Kessel   |         Slaves         |
 
 
 ### Bazaar Raiders
 
-Claudio Canzonetta,,,
-Maegan Cowan,,,
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|   Claudio Canzonetta   |     Gibson Mallick     |      Human      |  Dantooine |     Droid Merchants    |
+
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|      Maegan Cowan      | Sentinel Droid Mark IV |  Kellenech Tech |  Dantooine |    Droid Resistance    |
 
 
-### Clone Trooper
+### Secrets of Immortality
 
-Bill McCord,,,
-Nadira Lamrad,,,
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|       Bill McCord      |          Archy         |      Clone      |    Quell   |       Independent      |
 
-### Kaiber Crystal Cave | Ligt
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|      Nadira Lamrad     |      Qaxis Quarll      |      Human      |    Quell   |       Independent      |
 
-Egill Bjarki Jónsson,,,
-Helga Björk Jónsdóttir,,,
 
-On Illum. 
+### Kyber Crystal Cave
 
-### Cantina on Ankhural | Dark
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|  Egill Bjarki Jónsson  |     Soren Yavinson     |     Togruta     |    Ilum    |       Jedi Order       |
 
-Jamie Edwards,D'lore Mantra, Human, Death Watch,
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+| Helga Björk Jónsdóttir |    Sloan Netherbane    |      Human      |    Ilum    |       Jedi Order       |
+
+
+### Cantina on Ankhural
+
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|      Jamie Edwards     |       Manji Toss       |   Mandalorian   |  Ankhural  |       Death Watch      |
 
 Death Watch in league with the First Order. 
 
 
-### Maz' Smugglers | Light
+### Maz' Smugglers
 
-Emma Rennell,,,
-William Lawrenson,,,
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|      Emma Rennell      |      Barb Lovells      |     Blarina     |  Takodana  |       Maz Castle       |
 
-
-### Knights of Ren | Dark
-
-Alex Bedwell,,,
-YH Chia,,,
-
-### Acolytes of the Narrow Eclipse | Twilight
-
-Connie Leung, Augury Noush,,
-Anis Sfeir,,,
-
-## Incoming Communications 
-
-### Narrow Eclipse : The Pharosi Veil
-
-|          Name          | Character | Species | Affiliation |
-|:----------------------:|:---------:|:-------:|:-----------:|
-|    Connie Leung        | Grand Augury Noush | Human | Narrow Eclipse |
-
-"Metajj. Metajj... how far have you come... we owe it to you that the galaxy's most powerful forces are mere puppets for our machinations. We've induldged in shadow play for as long as was needed. Now that both the First Order and the Resistance have secured us as their ally - We shall be true to neither. They've mistaken usefulness for trust, and it shall cost them dearly! Go now, to the Orbital Research Station on Vesper V. There you will recover the technology we need to end this war. Soon we shall lift our Pharosi veil, and herald the era of the Narrow Eclipse!" 
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|    William Lawrenson   |        Way Smith       |     Blarina     |  Takodana  |       Maz Castle       |
 
 
-### First Order : Kyber Crystals
+### Knights of Ren
 
-|          Name          | Character | Species | Affiliation |
-|:----------------------:|:---------:|:-------:|:-----------:|
-|    Isak Ladegaard      | Commandant Luger | Human | First Order |
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|      Alex Bedwell      |         Ti Ren         |      Human      |    Endor   |     Knights of Ren     |
 
-"Greetings Pharosi Vos. Starkiller Base was lost. Our home .. our memories .. most of our men... lost. These were men. Great men, sacrificed on the altar of a singular power. A power that hungers still, and it wants to devour the resitance whole... Pharosi Vos, we shall pay you considerable credits for retrieving Kyber Crystals. I'll forgo giving offence by suggesting it would make for a good retirement - we both know it's not the crdits you're in for. You understand power. So you understand we must respond in kind. We shall need Kyber Crystals, Vos. All of them."
-
-### Resistance : New Leadership
-
-|          Name          | Character | Species | Affiliation |
-|:----------------------:|:---------:|:-------:|:-----------:|
-|       Rayla Heide      | Zaphira Renlith | [Twi'lek](http://starwars.wikia.com/wiki/Twi%27lek) | Resistance |
-
-"Commander Vos. All that's left of Starkiller base are the blueprints you handed us! We are forever indebted to the Pharosi! Though we once again seek your counsel. With the Senate on Hosnian Prime obliterated, the New Republic is leaderless. We need the allied worlds to be brave in the face of enchroaching evil, so that the good in this world may prevail. We need the republican worlds to delegate senetors to Chandrila whom are... amenable to good words... Pharosi Vos, we're putting our faith in you to ensure that the _right_ senators are elected. Democracy shall live again, but first we shall secure its endurance with a silk tongue..."
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|         YH Chia        |      Pyremane Sash     |     Mirialan    |    Endor   |     Narrow Eclipse     |
 
 
-### Luke & Leia
+### Acolytes of the Narrow Eclipse
 
-|          Name          | Character | Species | Affiliation |
-|:----------------------:|:---------:|:-------:|:-----------:|
-|       Ivar Posthumus      | Luke Skywalker | Human | Jedi |
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|      Connie Leung      |   Grand Augury Noush   |      Human      |  Chandrila |     Narrow Eclipse     |
 
-|          Name          | Character | Species | Affiliation |
-|:----------------------:|:---------:|:-------:|:-----------:|
-|       Janneke Vissers      | Leia Organa | Human | Resistance |
-
-### Droid : 
-
-|          Name          | Character | Species | Affiliation |
-|:----------------------:|:---------:|:-------:|:-----------:|
-|       Benjamin Hall      | CZ-7 | Communications Droid | Jedi |
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|       Anis Sfeir       |  Vennegourd Prolassian |      Human      |  Chandrila |     Narrow Eclipse     |
 
 
-### Oligarch Bounty
+## Transmissions
 
-|          Name          | Character | Species | Affiliation |
-|:----------------------:|:---------:|:-------:|:-----------:|
-| Niels van der Linden   | Plutarch Koine | Human | Finance Guild |
+### First Order
 
-|          Name          | Character | Species | Affiliation |
-|:----------------------:|:---------:|:-------:|:-----------:|
-| Dikkie Engelen   | Lady Neuville | Human | Finance Guild |
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|     Isak Ladegaard     |    Commandant Luger    |      Human      |  Finalizer |       First Order      |
+
+A young, ruthless officer in the First Order, Commandant Luger is a direct subordinate of General Hux and is responsible for sourcing the rare minerals used in the 'special projects' run aboard the Finaliser. Luger had a promising career with the Order, rising rapidly through its ranks, but was kept out of the top brass as he is considered too sentimental for command. Somewhat frustrated that his role is no longer directly combat related, Luger overcompensates by exacting fascist discipline from others, even those beyond the Order.
+
+### Resistance
+
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|       Rayla Heide      |     Zaphira Renlith    |      Human      |    D'Qar   |       Resistance       |
+
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|     Kent Sutherland    |      Orphoon Wells     |     Pantoran    |  Chandrila |      New Republic      |
 
 
+### Skywalkers
 
-### Force Sensitive 'Recruitment'
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|     Ivar Posthumus     |     Luke Skywalker     |      Human      |    D'Qar   |       Resistance       |
 
-Dan Elias,,,
-Hayley Elias,,,
+Luke Skywalker was a Tatooine farmboy who rose from humble beginnings to become one of the greatest Jedi the galaxy has ever known. Along with his friends Princess Leia and Han Solo, Luke battled the evil Empire, discovered the truth of his parentage, and ended the tyranny of the Sith. A generation later, the location of the famed Jedi master was one of the galaxy’s greatest mysteries.
 
-### T.B.C.
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|     Janneke Vissers    |       Leia Organa      |      Human      |    D'Qar   |       Resistance       |
 
-Simone Trum,,,
-Benjamin James,,,
 
+Princess Leia Organa was one of the Rebel Alliance’s greatest leaders, fearless on the battlefield and dedicated to ending the tyranny of the Empire. Daughter of Padmé Amidala and Anakin Skywalker, sister of Luke Skywalker, and with a soft spot for scoundrels, Leia ranks among the galaxy’s great heroes. But life under the New Republic has not been easy for Leia. Sidelined by a new generation of political leaders, and struck out on her own to oppose the First Order as founder of the Resistance. These setbacks in her political career have been accompanied by more personal losses.
+
+## Droid Resistance
+
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|      Benjamin Hall     |          CZ-7          |   Serv-O-Droid  |    D'Qar   |    Droid Resistance    |
+
+
+## Infinity Guild
+
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|  Niels van der Linden  |     Plutarch Koine     |      Human      |   Tython   |     Infinity Guild     |
+
+
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|     Dikkie Engelen     |      Lady Neuville     |     Twi'lek     |   Tython   |     Infinity Guild     |
+
+
+## Zygerrian Slave Empire
+
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|        Dan Elias       |     Rocco Cavalier     |    Zygerrian    |  Zygerria  | Zygerrian Slave Empire |
+
+
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|      Hayley Elias      |         Harlan         |    Zygerrian    |  Zygerria  | Zygerrian Slave Empire |

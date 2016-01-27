@@ -1,5 +1,6 @@
 ## Plot Order
 
+
 ### Somewhere... in the Outer Rim
 
 1. **MEDIA** Opening Crawl
@@ -18,11 +19,11 @@
 
 ### Kessel
 
-1. **MEDIA** Plutarch : Shafts Run Deep 
+1. **MEDIA** Infinity Guild : Shafts Run Deep 
 1. **SCENE** Spice Mines of Kessel
-1. **MEDIA** Plutarch : Kessel Spice
+1. **MEDIA** Infinity Guild : Kessel Spice
 or 
-1. **MEDIA** Plutarch : Kessel Split
+1. **MEDIA** Infinity Guild : Kessel Crossing
 
 ---
 
@@ -43,7 +44,7 @@ or
 ### Quell
 
 1. **MEDIA** Narrow Eclipse : The Eternal Eclipse
-1. **SCENE** Clone Trooper
+1. **SCENE** Secrets of Immortality
 
 ---
 
@@ -92,17 +93,3 @@ or
 1. **DARK**    : Crystals
 1. **LIGHT**   : Political
     * Biomorph Resonator Tech
-
-Ice planets or Teddy Bears. No Death Stars or Killer Bases. I hand the torch to you Metajj, set the darkness alight, and extinguish any hope with a narrow eclipse. 
-
-There will be no secrets to base. 
-
-The Acolytes of the Narrow Eclipse, will cast shade upon light and 
-
-Rise Metajj Vos, take the Biomorph Resonator 
-
-
-We have gathered the innocents of the galaxy and together 
-
-We have 
-
