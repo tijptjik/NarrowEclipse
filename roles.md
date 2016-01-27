@@ -184,13 +184,16 @@ Death Watch in league with the First Order.
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |     Isak Ladegaard     |    Commandant Luger    |      Human      |  Finalizer |       First Order      |
 
-A young, ruthless officer in the First Order, Commandant Luger is a direct subordinate of General Hux and is responsible for sourcing the rare minerals used in the 'special projects' run aboard the Finaliser. Luger had a promising career with the Order, rising rapidly through its ranks, but was kept out of the top brass as he is considered too sentimental for command. Somewhat frustrated that his role is no longer directly combat related, Luger overcompensates by exacting fascist discipline from others, even those beyond the Order.
+A young, ruthless officer in the First Order, _Commandant Luger_ is a direct subordinate of General Hux and is responsible for sourcing rare minerals used in the 'special projects' run aboard the Finaliser. Luger had a promising career with the Order, rising rapidly through its ranks, but was kept out of the top brass as he is considered too sentimental for command. Somewhat frustrated that his role is no longer directly combat related, Luger overcompensates by exacting fascist discipline from others, even those beyond the Order.
 
 ### Resistance
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |       Rayla Heide      |     Zaphira Renlith    |      Human      |    D'Qar   |       Resistance       |
+
+Envoy _Zaphira Renlith_ is the Resistance liason with the New Republic Senate. General Leia Organa is fully dedicated to the military operations of the Resistance, so Leia has made Zaphira responsible for rallying the senate's sympathy and support for the cause. She's results driven and been in the arena long enough to know when to take shortcuts and when to stand firm. The destruction of Hosnian Prime has left her political rolodex all but depleted, so now that she's in a position to not only walk, but _shape_ the political landscape, it's time for a shortcut.
+ 
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|

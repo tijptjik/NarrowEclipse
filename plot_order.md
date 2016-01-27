@@ -61,7 +61,7 @@ or
 ### Ankhural
 
 1. **SCENE** Cantina on Ankhural
-1. **MEDIA** Senate : Civil Decay
+1. **MEDIA** Resistance : Civil Decay
 
 ---
 
