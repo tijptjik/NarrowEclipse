@@ -33,14 +33,28 @@
 "Commander Vos. All that's left of Starkiller base are the blueprints you handed us! We are forever indebted to the Pharosi! Though we once again seek your counsel. With the Senate on Hosnian Prime obliterated, the New Republic is leaderless. We need the allied worlds to be brave in the face of enchroaching evil, so that the good in this world may prevail. We need the republican worlds to delegate senetors to Chandrila whom are... amenable to good words... Pharosi Vos, we're putting our faith in you to ensure that the _right_ senators are elected. Democracy shall live again, but first we shall secure its endurance with a silk tongue..."
 
 
+## Resistance : Civil Decay
+
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|     Kent Sutherland    |      Orphoon Wells     |     Pantoran    |  Chandrila |      New Republic      |
+
+In response to Zaphira Renlith's request for the 'right' senators to be elected, Metajj Vos has sabotaged the formation of the new body by orchastration the election of either morally corrupt or slow-witted representatives.
+
+###  Key Narrative Points
+
+* You got on Metajj's trail as she was the common denominator for all the unsavory types being sent in.
+* Metajj Vos has helped elect Slavers, Dodgy Merchants, and Children to the senate.
+* Detail the consequences of having those types shaping the future, either by describing interaction in the new chamber, or what kind of policy you could expect.
+
+
 ## Infinity Guild : Shafts Run Deep 
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |  Niels van der Linden  |     Plutarch Koine     |      Human      |   Tython   |     Infinity Guild     |
 
-As the patriarch of a vast trade guild, Plutarch Koine, rarely gets his hands dirty. 
-
+ 
 ###  Key Narrative Points : 
 
 *

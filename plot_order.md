@@ -48,7 +48,7 @@ or
 
 ---
 
-### Illium
+### Illum
 
 1. **MEDIA** Force Sensitive 'Recruitment'
 1. **SCENE** Kaiber Crystal Cave

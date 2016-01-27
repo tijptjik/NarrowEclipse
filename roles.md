@@ -199,6 +199,8 @@ Envoy _Zaphira Renlith_ is the Resistance liason with the New Republic Senate. G
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |     Kent Sutherland    |      Orphoon Wells     |     Pantoran    |  Chandrila |      New Republic      |
 
+Fortune would have _Orphoon Wells_ off-world during the fatal strike against the Hosnian system. Starkiller Base's opening volley obliterated Hosnian Prime and the Galatic Senate which it hosted. As a long-time assistant to the late Pantoran Senator he would have been there - no, _should_ have been there, but instead Orphoon found himself amongst the most senior members of senate staff still alive. He was elected as the head of the special comittee for the re-establishment of the Galactic Senate. Orphoon has always taken issue with compromising as his best policy ideas would mutate into mumbled jumbles on the senate floor. _His_ Senate, the new senate, will finally be the coherent super-structure it always should have been.
+
 
 ### Skywalkers
 
@@ -227,6 +229,8 @@ Princess Leia Organa was one of the Rebel Alliance’s greatest leaders, fearles
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |  Niels van der Linden  |     Plutarch Koine     |      Human      |   Tython   |     Infinity Guild     |
+
+As the patriarch of a vast trade guild, Plutarch Koine, rarely gets his hands dirty.
 
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
