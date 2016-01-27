@@ -90,12 +90,12 @@ William Lawrenson,,,
 ### Knights of Ren | Dark
 
 Alex Bedwell,,,
+YH Chia,,,
 
 ### Acolytes of the Narrow Eclipse | Twilight
 
 Connie Leung, Augury Noush,,
 Anis Sfeir,,,
-YH Chia,,,
 
 ## Incoming Communications 
 

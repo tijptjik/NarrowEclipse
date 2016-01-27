@@ -38,6 +38,15 @@
 - [ ] Hayley Elias
 - [ ] Benjamin James
 
+# Transmission
+
+* Narrow Eclipse
+* First Order
+* Resistance
+* Luke & Leia
+* Droid
+* Plutarch
+* Force Sensitive 'Recruitment'
 
 # Unavailable
 

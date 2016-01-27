@@ -27,3 +27,29 @@
 1. **SCENE** Knights of Ren
 ---
 1. **SCENE** Acolytes of the Narrow Eclipse
+1. **MEDIA** First Order : 
+1. **MEDIA** Credits
+
+
+## Objectives
+
+1. **ECLIPSE** : Intel
+    * Biomorph Resonator Tech
+1. **DARK**    : Crystals
+1. **LIGHT**   : Political
+    * Biomorph Resonator Tech
+
+Ice planets or Teddy Bears. No Death Stars or Killer Bases. I hand the torch to you Metajj, set the darkness alight, and extinguish any hope with a narrow eclipse. 
+
+There will be no secrets to base. 
+
+The Acolytes of the Narrow Eclipse, will cast shade upon light and 
+
+Rise Metajj Vos, take the Biomorph Resonator 
+
+
+
+
+
+
+
