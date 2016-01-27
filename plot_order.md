@@ -50,7 +50,7 @@ or
 
 ### Illum
 
-1. **MEDIA** Force Sensitive 'Recruitment'
+1. **MEDIA** Zygerrian Slave Empire : Force Labour
 1. **SCENE** Kaiber Crystal Cave
 1. **MEDIA** First Order : Crystals Recovered
 or
@@ -67,7 +67,7 @@ or
 
 ### Tokadana
 
-1. **MEDIA** Skywalkers : Binary Suns
+1. **MEDIA** Skywalkers : Isolated Isles
 1. **SCENE** Maz' Smugglers
 
 ---
@@ -84,12 +84,3 @@ or
 1. **SCENE** Acolytes of the Narrow Eclipse
 1. **MEDIA** First Order : 
 1. **MEDIA** Credits
-
-
-## Objectives
-
-1. **ECLIPSE** : Intel
-    * Biomorph Resonator Tech
-1. **DARK**    : Crystals
-1. **LIGHT**   : Political
-    * Biomorph Resonator Tech

@@ -19,8 +19,49 @@
 
 ###  Message
 
-"Greetings Pharosi Vos. Starkiller Base was lost. Our home .. our memories .. most of our men... lost. These were men. Great men, sacrificed on the altar of a singular power. A power that hungers still, and it wants to devour the resitance whole... Pharosi Vos, we shall pay you considerable credits for retrieving Kyber Crystals. I'll forgo giving offence by suggesting it would make for a good retirement - we both know it's not the crdits you're in for. You understand power. So you understand we must respond in kind. We shall need Kyber Crystals, Vos. All of them."
+"Greetings Pharosi Vos. Starkiller Base was lost. Our home .. our memories .. most of our men... lost. These were men. Great men, sacrificed on the altar of a singular power. A power that hungers still, and it wants to devour the resitance whole... Pharosi Vos, we shall pay you considerable credits for retrieving Kyber Crystals. I'll forgo giving offence by suggesting it would make for a good retirement - we both know it's not the credits you're in for. You understand power. So you understand we must respond in kind. We shall need Kyber Crystals, Vos. All of them."
 
+## First Order : Crystals on Illium
+
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|     Isak Ladegaard     |    Commandant Luger    |      Human      |  Finalizer |       First Order      |
+
+The Pharosi have sent a small batch of Kyber Crystals to the Finalizer - but not nearly enough to run your experiments with. With pride you explain how _Kyber Troopers_ will be Force Enhanced Stormtroopers. Soon the First Order will unleash a thousand mini death stars upon the universe!
+
+###  Suggested Narrative Points
+
+* Discuss the short-comings of the centralised space WMD (Death Star I ,Death Star II, Starkiller Base), compared with an unstoppable no-single-point of failure army of Force Users. 
+
+###  Key Narrative Points
+
+* Compell Metajj to set out on a mining mission on 'Ilum' to recover the quantities of Kyber Crystals needed to create Kyber Tropopers.
+
+
+## First Order : Crystals Recovered 
+
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|     Isak Ladegaard     |    Commandant Luger    |      Human      |  Finalizer |       First Order      |
+
+Metajj will have the choice in the story whether to send the Kyber Crystal to the Finalizer or to destroy them. If she sends them over we will play this transmission.
+
+###  Message
+
+"You did well Metajj. This won us the war. Your credits have been wired to your accounts... you sure  you won't consider retiring?"
+
+
+## First Order : Crystals Destroyed
+
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|     Isak Ladegaard     |    Commandant Luger    |      Human      |  Finalizer |       First Order      |
+
+Metajj will have the choice in the story whether to send the Kyber Crystal to the Finalizer or to destroy them. If she destroys them, we will play this transmission.
+
+###  Message
+
+"Sources tell me that you have destroyed the Kyber Crystals. _You_ Metajj, were our single point of failure. And soon you'll discover how we deal with failure of that magnitude."
 
 ## Resistance : New Leadership
 
@@ -53,11 +94,18 @@ In response to Zaphira Renlith's request for the 'right' senators to be elected,
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |  Niels van der Linden  |     Plutarch Koine     |      Human      |   Tython   |     Infinity Guild     |
+|     Dikkie Engelen     |      Lady Neuville     |     Twi'lek     |   Tython   |     Infinity Guild     |
 
- 
+The conditions of the Kessel Spice Mines are notoriously abysmal. Every once in a while there's a rebellion amongst the enslaved miners who will try and break free. You are quite partial to the income generated from the mines so wantto stamp out the rebellion even before it gets started. You will try to enlist Metajj Vos to find the seed of the rebellion and trample over it with an iron boot.
+
+###  Suggested Narrative Points
+
+* Illustrate how the miners could be punished for their  insurgance.
+* Have Lady Neuville wonder point out that it isn't a crime until it's been commited. Explain in colourful terms that acrime is committed as soon as the miners even think of exceeding their purpose of being miners.
+
 ###  Key Narrative Points : 
 
-*
+* Send Metajj to Kessel, and direct her to speak with D'lore Mantra , the person in control of the mines.
 
 
 ## Infinity Guild : Kessel Spice
@@ -73,16 +121,42 @@ In response to Zaphira Renlith's request for the 'right' senators to be elected,
 |     Dikkie Engelen     |      Lady Neuville     |     Twi'lek     |   Tython   |     Infinity Guild     |
 
 
-## Skywalkers
+## Skywalkers : Isolated Isles
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |     Ivar Posthumus     |     Luke Skywalker     |      Human      |    D'Qar   |       Resistance       |
 
+Luke hasn't spoken to anyone for decades. He was told that the Pharosi  line should only be used incases of emergency. Now is such an emergency. There are many unanswered questions , and you're hoping Metajj will be able to help you with some of them
+
+###  Suggested Narrative Points
+
+* Discuss all the things you've been concerned with while in self-imposed exile.
+* You've spent some time on the forums since coming back, and you know the rumours about your hand floating through outer space....but how did that Maz women get a hold of it the lightsbre it held? She is not to be trusted.
+* Wonder whether the resistance is _insane_. The last time you tried training Jedi you handed a darth vader fanboy to the First Order. They are asking you to try this again?!
+
+###  Key Narrative Points
+
+* Send Metajj to seek out the truth about Maz' smuggling operation and how she came in possession of Luke's lightsabre.
+
+## Skywalkers : Cast in Red
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |     Janneke Vissers    |       Leia Organa      |      Human      |    D'Qar   |       Resistance       |
+
+Leia has received word on the whereabouts of the Knights of Ren. The Resistance cannot risk its fighters after half its fleet got destroyed at the battle of Starkiller Base. So knowing the information would be valuable to the Pharosi, Leia is sharing their location with Metajj Vos so the favour way be returned some day.
+
+###  Suggested Narrative Points
+
+* Talk about how you used to be a princess, now you're a general. The prequals ruined your royalty.
+* Men are useless - Han Solo left at the first sight of trouble, your brother turned your son into an emo killer machine, and now the latter has killed Han Solo, while the former created an impossible puzzle map which might as well have been solved by the First Order first, but luckily a _village slaughter_ prevented that from happening.
+* You still can't believe your _son_ is all bad and believe he still has much light in him. It's probabaly the bad influence of the people he's hanging out with. So you'd appreciate it if Metajj Vos could supply as much information as she can about these _Knights of Ren_ Ben is running with these days.
+* Speculate what that intense hug with Ray meant.
+
+###  Key Narrative Points
+
+* Send Metajj to collect intel on _Endor_ where the _Knights of Ren_ have a base.
 
 
 ## Droid Resistance
@@ -91,31 +165,48 @@ In response to Zaphira Renlith's request for the 'right' senators to be elected,
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |      Benjamin Hall     |          CZ-7          |   Serv-O-Droid  |    D'Qar   |    Droid Resistance    |
 
+The Droid Resistance is a communications network of droids who exploit the natural chattiness of protocol droids to extract information on the droid trade. Even though only a single droid can be said to be 'aware' of the resistance, all droids which have adopted the 3PO protocol are networked, thus the reach of the resistance is vast. Metajj's protocol droid is sought after by the Droid Resistance as the Pharosi missions take her all across the galaxy. In this particular case the droid resistance is seeking help to recover a Sentinel Droid which a malicious merchant has retrofitted with an entertainment module and now even refuses to sell to a master.
 
-## Oligarch Bounty
+###  Suggested Narrative Points
 
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|  Niels van der Linden  |     Plutarch Koine     |      Human      |   Tython   |     Infinity Guild     |
+* Go nuts talking about the Droid Resistance's exploits
 
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|     Dikkie Engelen     |      Lady Neuville     |     Twi'lek     |   Tython   |     Infinity Guild     |
+###  Key Narrative Points
 
+* Compell C-6TS, Metajj's protocol droid, to confront the Droid Merchant named _Gibson Mallick _  on _Dantooine_. 
 
 
+## Zygerrian Slave Empire : Force Labour
 
-## Force Sensitive 'Recruitment'
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |        Dan Elias       |     Rocco Cavalier     |    Zygerrian    |  Zygerria  | Zygerrian Slave Empire |
+|      Hayley Elias      |         Harlan         |    Zygerrian    |  Zygerria  | Zygerrian Slave Empire |
 
+Your slavers reported that they saw encampments setup on the barren Ice World of Ilum. Ilum is known as being rich with Kyber Crystals, which in turn are used for creating Lightsabrers. Jedi Younglings would come to Ilum as part of their trainigs. It's thus most curious to find activity on Ilum again after the Jedi Order has been all but destroyed. Though if there were Force Sensitive Childeren on Ilum, they would make for prized slaves - and a great marketing opportunity for Zygerrian.
+
+###  Suggested Narrative Points
+
+* Given the role in shutting down your slave trade, mention your hatred for the Jedi.
+* Discuss how it's nature's commandment to subject other's to the best of your ability. 
+* Go nuts rationalising slavery.
+* Promise Metajj to have first pick of a Force Sensitive slave once the Zygerrian Slavers have broken then in for her. 
+
+###  Key Narrative Points
+
+* Send Metajj to confirm rumours that Force Sensitive Childeren are harvesting Kyber Crystals on _Ilum_ 
+
+
+## Spamwaves
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|      Hayley Elias      |         Harlan         |    Zygerrian    |  Zygerria  | Zygerrian Slave Empire |
+|       Simone Trum      |       Itashi Flam      |     Unknown     |   Unknown  |         Unknown        |
 
-## T.B.C.
+Voor iedereen heb ik dus specifieke rollen geschreven die in het verhaal passen, maar voor jou vond ik het juist leuk om iets meer aan ‘world-building’ te doen .. sfeer-verijking! Dus in plaats van dat het het verhaal volgt, kan het een filmpje, of een klein serie van video snippets zijn die zich aan Sherin ‘opdringen’ als ze allerlei serieuze shit aan het uitzoeken is :) Dus vooral als je zon’ beren masker hebt! Dan moet je eigenlijk een ‘message of love’ de ruimte insturen en iedereen uitnodigen naar de knuffel planeet! Of dus spam reclame voor iets wat die beren maken, of een request for ‘information’. Sherin runt een spy network, dus wellicht dat die beren ook iets over het helal willen weten. Misschien is Sherin wel een soort 0900 nummer voor beertjes waar ze denken met al hun vragen over het helal terecht te kunnen! :) Hahha kan dus echt super veel mee gedaan worden :) Videos hoeven echt niet lang te zijn, een van 2-3 minuten, of 3 van 1/2-1 minuut? Daar zat ik ongeveer aan te denken. Maar plezier staat voorop! Dus maak er van wat je wilt!
 
-Simone Trum,,,
-Benjamin James,,,
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|     Benjamin James     |    Theodore Karpman    |     Unknown     |   Unknown  |         Unknown        |
+
+Commercials for Droid Markets.

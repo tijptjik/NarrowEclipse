@@ -26,17 +26,16 @@
 
 # Overseas Participants 
 
-- [ ] Simone Trum
-- [ ] Benjamin Hall
-
+- [x] Simone Trum
+- [x] Benjamin Hall
 - [x] Rayla Heide
 - [x] Isak Ladegaard
 - [ ] Niels van der Linden
 - [ ] Dikkie Engelen
 - [x] Ivar Posthumus
 - [x] Janneke Vissers
-- [ ] Dan Elias
-- [ ] Hayley Elias
+- [x] Dan Elias
+- [x] Hayley Elias
 - [ ] Benjamin James
 
 # Transmission
