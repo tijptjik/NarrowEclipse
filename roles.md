@@ -4,7 +4,7 @@
 
 |          Name          | Character | Species | Affiliation |
 |:----------------------:|:---------:|:-------:|:-----------:|
-|       Sherin Siew      | Metajj Vos | Human/Dathomiri | Pharos |
+|       Sherin Siew      | Metajj Vos | Dathomiri | Pharos |
 
 
 With knowledge rarifying, it's gaining in value, rising in power. 

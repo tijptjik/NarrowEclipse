@@ -27,9 +27,10 @@
 # Overseas Participants 
 
 - [ ] Simone Trum
+- [ ] Benjamin Hall
+
 - [x] Rayla Heide
 - [x] Isak Ladegaard
-- [ ] Benjamin Hall
 - [ ] Niels van der Linden
 - [ ] Dikkie Engelen
 - [x] Ivar Posthumus

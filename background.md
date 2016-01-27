@@ -21,26 +21,10 @@ Stellar Prominence
 
 ## Character Names Pool
 
-Josie Sarkinn
-Tremmil Lonesi
-D'lore Mantra 
-Akari Ga-Funsi
-Way Smith
-Yvette Corell
-Orphoon Wellis
-Showzu Hare
-Mak Plosi
-Ti J've
-Vennegourd Prolassian
-Manji Toss
-Qaxis Quarll
-Pyremane Gello
-Theodore Karpman
-Sloan Netherbane
-Roth Hogan 
-Barb Lovells
-Gibson Mallick
-Harlan
-Rocco Cavalier
-Soren Yavinson
-Plutarch Koine
+
+
+
+
+
+
+
