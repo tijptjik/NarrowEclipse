@@ -1,5 +1,45 @@
 # Roles 
 
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|       Sherin Siew      |       Metajj Vos       |    Dathomiri    | Alexandria |     Narrow Eclipse     |
+|     Mart van de Ven    |      Tremmil Losi      |     Umbaran     | Alexandria |     Narrow Eclipse     |
+|       Tom Grundy       |        Mak Dent        |      Nikto      |   Lothal   |    Dark Matter Press   |
+|   Claudio Canzonetta   |     Gibson Mallick     |      Human      |  Dantooine |     Droid Merchants    |
+|      Matt Nodurft      |       Showzu Hare      |     Arkanian    |  Vesper V  |     Vesper Academy     |
+|      Emma Rennell      |      Barb Lovells      |     Blarina     |  Takodana  |       Maz Castle       |
+|    William Lawrenson   |        Way Smith       |     Blarina     |  Takodana  |       Maz Castle       |
+|      Connie Leung      |   Grand Augury Noush   |      Human      |  Chandrila |     Narrow Eclipse     |
+|       Anis Sfeir       |  Vennegourd Prolassian |      Human      |  Chandrila |     Narrow Eclipse     |
+|      Oliva Madrid      |          C-6TS         | Cybot Galactica | Alexandria |     Narrow Eclipse     |
+|  Egill Bjarki Jónsson  |     Soren Yavinson     |     Togruta     |    Ilum    |       Jedi Order       |
+| Helga Björk Jónsdóttir |    Sloan Netherbane    |      Human      |    Ilum    |       Jedi Order       |
+|      Maegan Cowan      | Sentinel Droid Mark IV |  Kellenech Tech |  Dantooine |    Droid Resistance    |
+|         Ivo Hos        |       Roth Hogan       |     Quarren     |   Kessel   |         Slaves         |
+|        Toby Fung       |      Yvette Corell     |     Quarren     |   Kessel   |         Slaves         |
+|        Jane Pong       |      Josie Sarkinn     |     Nautolan    |   Lothal   |     Tauntaun House     |
+|      Alex Bedwell      |         Ti Ren         |      Human      |    Endor   |     Knights of Ren     |
+|      Jamie Edwards     |       Manji Toss       |   Mandalorian   |  Ankhural  |       Death Watch      |
+|       Bill McCord      |          Archy         |      Clone      |    Quell   |       Independent      |
+|      Nadira Lamrad     |      Qaxis Quarll      |      Human      |    Quell   |       Independent      |
+|         YH Chia        |      Pyremane Sash     |     Mirialan    |  Chandrila |     Narrow Eclipse     |
+|       Richard Abs      |      D'lore Mantra     |       Pyke      |   Kessel   |  Pyke Crime Syndicate  |
+|      Benjamin Hall     |          CZ-7          |   Serv-O-Droid  |    D'Qar   |    Droid Resistance    |
+|       Rayla Heide      |     Zaphira Renlith    |      Human      |    D'Qar   |       Resistance       |
+|     Kent Sutherland    |      Orphoon Wells     |     Pantoran    |  Chandrila |      New Republic      |
+|     Isak Ladegaard     |    Commandant Luger    |      Human      |  Finalizer |       First Order      |
+|  Niels van der Linden  |     Plutarch Koine     |      Human      |   Tython   |     Infinity Guild     |
+|     Dikkie Engelen     |      Lady Neuville     |     Twi'lek     |   Tython   |     Infinity Guild     |
+|     Ivar Posthumus     |     Luke Skywalker     |      Human      |    D'Qar   |       Resistance       |
+|     Janneke Vissers    |       Leia Organa      |      Human      |    D'Qar   |       Resistance       |
+|        Dan Elias       |     Rocco Cavalier     |    Zygerrian    |  Zygerria  | Zygerrian Slave Empire |
+|      Hayley Elias      |         Harlan         |    Zygerrian    |  Zygerria  | Zygerrian Slave Empire |
+|       Simone Trum      |       Itashi Flam      |     Unknown     |   Unknown  |         Unknown        |
+|     Benjamin James     |    Theodore Karpman    |     Unknown     |   Unknown  |         Unknown        |
+
+
+
+
 ## Protagonist // Dathomiri Pharos
 
 |          Name          | Character | Species | Affiliation |
@@ -23,6 +63,7 @@ Responsible for Intergalactic Communications. Relays transmissions received from
 |          Name          | Character | Species | Affiliation |
 |:----------------------:|:---------:|:-------:|:-----------:|
 |     Mart van de Ven    | Tremmil Losi | [Umbaran](http://starwars.wikia.com/wiki/Umbaran) | Narrow Eclipse |
+
 
 Navigator, and First Officer on the Alexandria. 
 
