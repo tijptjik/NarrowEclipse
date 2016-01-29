@@ -62,7 +62,7 @@ Chief Scientist on the Biomorph Resonator Tech project.
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|         Ivo Hos        |       Roth Hogan       |     Quarren     |   Kessel   |         Slaves         |
+|         Ivo Hos        |         Bakwarro       |      Wookie     |   Kessel   |         Slaves         |
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|

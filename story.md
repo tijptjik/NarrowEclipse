@@ -53,7 +53,6 @@ As a rational man, Showzu never took pride in his lab coat's Vesper emblem. He's
 * In both choice event outcomes, Showzu Hare elaborates on the miracle of BRATTS.
 * BRATTS allows Metajj Vos to pick up all the people she encounters on her missions throughout the galaxy. Instead of having to convince the physical person to join their quest - potentially exposing the hidden nature of the Pharosi Network - Metajj can simply scan them and have their volutars come aboard the Alexandria.
 * This opens up the possibility of using volutars on future quests - the crew on the Alexandria can instruct the volutars, but due to the prototype status of the ATSS the volutars may not always behave as expected. If Showzu joins the crew, he can attempt to fix these inconsistencies. 
-* **EXIT TRANSMISSION** : First Order : Kyber Crystals
 * **EXIT TRANSMISSION** : Resistance : New Leadership
 
 
@@ -98,12 +97,33 @@ It's a great scheme, and it might even have worked, if Yvette Corell hadn't sold
 * **OUTCOME** : Send a Slaver to the Senate as the elected official for Kessel.        
 
 
-## Dark Matter Press
+## Dark Matter Unplugged
 
 |       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
-|       Tom Grundy       |        Mak Dent        |      [Nikto][4]      |   [Lothal][21]  |     Dark Matter Press   |
+|       Tom Grundy       |        Mak Dent        |      [Nikto][4]      |   [Lothal][21]  |   Dark Matter Unplugged |
 |        Jane Pong       |      Josie Sarkinn     |     [Nautolan][11]   |   [Lothal][21]  |      Tauntaun House     |
+
+Once arrived on Lothal, the Alexandria crew disembark and walk into a press conference presided over by the CEO of Tauntaun House, the galaxy's largest publisher of vapid instacasts and serialised holovids. The grand announcement of fresh holovid titles doesn't last long however, as Sarkinn is rudely interupted by Mak Dent, censorship activist with  Dark Matter Unplugged, calling for her arrest on behest of the New Republic's Charter on the veracity of the Press. 
+
+### Role Play Notes
+
+* **OPENING TRANSMISSION** : First Order : Kyber Crystals
+* Following the transmission, Navigator proposes Lothal as it's rich with Kyber Crystals.
+* Josie Sarkinn announces great new lines of holovids:
+    * 'Playing Queen', it's all about preparing the baby house.
+    * 'Only a sith deals in absolutes' - The best holovid ever.
+    * 'Star Wars Holiday Special' - showing how the Wookies celebrate life day
+    * 'Caravan of Courage' - An adventure featuring the heroic Ewok.
+* Sarkinn is then interupted by Mak Dent, Censorship Activist from _Dark Matter Unplugged_
+* Allegations of Censorship by Tautaun House:
+    * Giving an unbalanced account of the Force. Playing up the Good, neglecting the Bad. 
+    * Being turn-coats - Dark Matter Press still holds on to copies of the _original_ holodvid reporting on the destruction of the second Death Star. It was all pity and sadness when the Empire was still around. Once it became clear the Emperor himself has perished along with the Death Star - Tauntaun House _pulled_ the holivids and retrofitted them with cheery rebel vicotry reels.
+    * Private Life - Censoring the awful parenting of Leia Organa and Han Solo over cries of 'privacy', while everyone has a right to know who's responsible for the emotionally unbalanced Dark Lord Ben Solo! That's right - we don't use code names here.
+    * Celebrating Luke Skywalker as a hero - blowing up the Death Star without warning, or time to evactuate meant that Luke Skywalkers body count stands at 369,470. Think of the families, the children they left behind.
+    * Resistance Whereabouts - Reporting that the base is on Dantooine, while everybody knows it was on D'Qar!
+* As Mak Dent is hauled off by the security guards, Sarkinn quips "That's Press Freedom for you"
+* **OUTCOME** : A small batch of Kyber Crystals is mined and shipped to the First Order.
 
 
 ## Bazaar Raiders
