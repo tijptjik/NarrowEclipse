@@ -27,18 +27,26 @@ The _Alexandria_ drifts through space without setting a course - it's operations
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
 |      Matt Nodurft      |       Showzu Hare      |     [Arkanian][5]    |    Vesper V     |      Vesper Academy     |
 
-On Vesper V, Chief Scientist Showzu Hare is in the final stages of developing 
+High above the teeming surface of Vesper V, Chief Scientist Showzu Hare has set up his secret lab in an orbital station. Showzu is in the final stages of developing a technology which will make cloning look like feeble child's play. _Biomorph Resonator Technology_ has been around for a decade, but the volutars (volumetric avatars) it casts are based on canned models with templated mannerism and behaviour. Showzu's breakthrough is the development of a complimentary _Axon Terminal Scanner System_ (ATTS). The scanner works by lingering just beyond a subject's surface, tapping into their Axon Terminals and extracing the physical personality locked in their muscle's memory.
 
-BR Tech allows anyone to cast a volumetric avatar which is almost indistinguishable from an actual person. The innovation under development on Vesper V is a scanner which would allow the Acolytes to extract avatars from anyone they managed to scan
+Showzu is initially livid that his BRATSS setup is being taken. It's operation still has many shortcomings. If an ATSS scan doesn't go deep enough, the scan comes back incomplete and volutars are initialised with jerky and loopy mannerism extracts. When a scan goes _too deep_, it's much worse. The ATSS then taps into the subject's _cranial_ nerves, extracting episodic memories and character traits which corrupt the volutar's ability to be controlled.
 
-1. Steal the technology without asking for it
-    - XXX Runs out after the Pharosi and confronts them, eventually losing the skirmish. 
-    - The Pharosi are now known as thieves. 
-    - Damanged BR Tech cannot be repaired.
-1. Pursuade that BR Tech needs to be tested under real world circumstances to confirm it works.
-    - The BR Tech is tested on Tremmil Losi. 
-    - The Pharosi aqcuire the tech, and XXX joins the Party.
+As a rational man, Showzu never took pride in his lab coat's Vesper emblem. He's long contemplated whether his ATSS reseach had a destiny beyond the Vesper Academy. Showzu is now cautiously optimisic the Pharosi Network is his big chance to be in league with the other great minds of his time. The Acolytes of the Narrow Eclipse in turn, are counting on the BRATSS impersonation tech to execute their coup. They've been scheming to gain the trust of the Resistance and the First Order leadership. The former are now within reach, while Supreme Leader Snoke has thus far evaded ensnarement. BRATSS will give them the ultimate cloak of deceit, putting them within earshot of ending the war.
 
+### Role Play Notes
+
+* **CHOICE EVENT** The Alexandria Crew will provide Metajj Vos with two options:
+    1. Steal the technology without asking for it.
+        * Showzu runs out after the Pharosi and confronts them.
+        * Showzu will not join the Alexandria, though his volutar will. 
+        * Damaged volutars cannot be repaired.
+    2. Pursuade Showzu Hare that his BRATTS needs to be field tested, and the Vesper Academy's funding will pale in comparison to the resources the Pharosi will put at Showzu's disposal.
+        * The BRATTS Tech is tested on Tremmil Losi, but the scan is too shallow.
+        * Showzu joins the Alexandria crew
+        * Showzu can repair damaged volutars
+* In both choice event outcomes, Showzu Hare elaborates on the miracle of BRATTS.
+* BRATTS allows Metajj Vos to pick up all the people she encounters on her missions throughout the galaxy. Instead of having to convince the physical person to join their quest - potentially exposing the hidden nature of the Pharosi Network - Metajj can simply scan them and have their volutars come aboard the Alexandria.
+* This opens up the possibility of using volutars on future quests - the crew on the Alexandria can instruct the volutars, but due to the prototype status of the ATSS the volutars may not always behave as expected. If Showzu joins the crew, he can attempt to fix these inconsistencies. 
 
 
 ## Spice Mines of Kessel

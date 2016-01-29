@@ -33,8 +33,8 @@
 - [ ] Isak Ladegaard
 - [ ] Niels van der Linden
 - [ ] Dikkie Engelen
-- [ ] Ivar Posthumus
-- [ ] Janneke Vissers
+- [x] Ivar Posthumus
+- [x] Janneke Vissers
 - [ ] Dan Elias
 - [ ] Hayley Elias
 - [x] Benjamin James
