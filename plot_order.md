@@ -42,6 +42,7 @@ or
 ### Quell
 
 1. **MEDIA** Narrow Eclipse : The Eternal Eclipse
+
 1. **SCENE** Secrets of Immortality
 
 ---
@@ -56,17 +57,17 @@ or
 
 ---
 
-### Ankhural
-
-1. **SCENE** Cantina on Ankhural
-1. **MEDIA** Resistance : Civil Decay
-
----
-
 ### Tokadana
 
 1. **MEDIA** Skywalkers : Isolated Isles
 1. **SCENE** Maz' Smugglers
+
+---
+
+### Ankhural
+
+1. **SCENE** Cantina on Ankhural
+1. **MEDIA** Resistance : Civil Decay
 
 ---
 
@@ -79,6 +80,6 @@ or
 
 ### Chandrila
 
+1. **MEDIA** Narrow Eclipse : Synthesis
 1. **SCENE** Acolytes of the Narrow Eclipse
-1. **MEDIA** First Order : 
 1. **MEDIA** Credits

@@ -191,7 +191,7 @@ Looking for a way to get off-world at a Takodana space port, two Blarina smuggle
     * How _did_ Maz come to be in possession of Luke's Lightsabre?
     * What other artefacts were kept in the castle's basement?
 * Once the story of 'other artefacts' has been told, Tremmil Losi interupts the Blarina and calls them out on their game.
-**CHOICE EVENT** Tremmil Losi calls on Metajj Vos to not waste her time with the Blarina Smugglers. Still keen to get off of Takodana, they offer Metajj a tribute ... an artifact they recovered from Maz Castle which they claim to belongs to Leia Organa. It's an artifact which is said to guide force sensitive users back to her....
+* CHOICE EVENT** Tremmil Losi calls on Metajj Vos to not waste her time with the Blarina Smugglers. Still keen to get off of Takodana, they offer Metajj a tribute ... an artifact they recovered from Maz Castle which they claim to belongs to Leia Organa. It's an artifact which is said to guide force sensitive users back to her....
     1. Metajj accepts the tribute
         * The Blarina join the Alexandria. They don't even ask where it's heading. 
         * The artefact can be given to Grand Augury Noush to further the cause.
@@ -206,7 +206,10 @@ Looking for a way to get off-world at a Takodana space port, two Blarina smuggle
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
 |      Jamie Edwards     |       Manji Toss       |   [Mandalorian][12]  |  [Ankhural][28] |     [Death Watch][39]   |
 
+### Role Play Notes
 
+
+* **Exit TRANSMISSION** Resistance : Civil Decay
 
 
 ## Knights of Ren
@@ -219,6 +222,11 @@ Looking for a way to get off-world at a Takodana space port, two Blarina smuggle
 |         YH Chia        |      Pyremane Sash     |     [Mirialan][14]   |    [Endor][27]  |      Narrow Eclipse     |
 
 
+### Role Play Notes
+
+* **OPENING TRANSMISSION** Skywalkers : Cast in Red
+
+
 ## Acolytes of the Narrow Eclipse
 
 ![](http://vignette4.wikia.nocookie.net/starwars/images/2/2f/CouncilOfNeutralSystems.png/revision/latest?cb=20120905231922)
@@ -227,6 +235,13 @@ Looking for a way to get off-world at a Takodana space port, two Blarina smuggle
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
 |      Connie Leung      |   Grand Augury Noush   |      [Human][1]      | [Chandrila][24] |      Narrow Eclipse     |
 |       Anis Sfeir       |  Vennegourd Prolassian |      [Human][1]      | [Chandrila][24] |      Narrow Eclipse     |
+
+With 
+
+### Role Play Notes
+
+* **OPENING TRANSMISSION** Narrow Eclipse : Synthesis
+
 
 
 # Notes 
