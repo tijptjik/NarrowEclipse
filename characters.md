@@ -129,11 +129,11 @@ Death Watch in league with the First Order.
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |      Emma Rennell      |      Barb Lovells      |     Blarina     |  Takodana  |       Maz Castle       |
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |    William Lawrenson   |        Way Smith       |     Blarina     |  Takodana  |       Maz Castle       |
 
+Barb Lovells and Way Smith are two Blarina smuggelers. Those aren't their real names. But in their line of business it's best to go by a name you've grown to like, since it's guaranteed that someday it'll be the name you're trying to get away from. Their banter might be confusing, as their 'friendly competition' registers as vitrolous rivalry to anyone who doesn't know better. An ongoing competition between them is to tell the wildest tale - it's gotten harder over the years as so much of their business is conducted as partners, but each minute spent apart is put to use in the a gradiose fabrication in the making.
+
+With the destruction of Maz' castle they are down on their luck. They'd used that place as a base of operation for decades. They would get cut in to lucrative routes, deliver their wares, and - for the right price - carry human cargo. That's all past tense now though. As in a recent gambling 'accident', Way lost their Correllian Freighter to a pack of card counting Gungans. According to the smuggler code of honour, Baarb could have killled him for that. But really, nothing beats trumping _any_ of Way's tales with a bisyllabic _Gungan_. Way isn't too banged up about their loss either, that junker was getting stale, and for the wildest tales, one must set out on new adventures.
 
 ### Knights of Ren
 

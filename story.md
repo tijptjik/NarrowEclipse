@@ -172,6 +172,32 @@ On the remote world of Quell, a relic of another era has taken refuge. Guided by
 
 **OUTCOME** : Send a child to the Senate as the elected official for Ilum.
 
+## Maz' Smugglers
+
+![](http://img.lum.dolimg.com/v1/images/maz_s-castle_c40bd1e2.jpeg?region=158%2C0%2C1756%2C878)
+
+|       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
+|:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
+|      Emma Rennell      |      Barb Lovells      |     [Blarina][6]     |  [Takodana][23] |     [Maz Castle][35]    |
+|    William Lawrenson   |        Way Smith       |     [Blarina][6]     |  [Takodana][23] |     [Maz Castle][35]    |
+
+Looking for a way to get off-world at a Takodana space port, two Blarina smugglers meet the Pharosi Vos. The two are regulars of Maz' Castle, and once they realise the Pharosi trades on intel instead of credits, the Blarina count their luck - as they were all out of credits - but have enough _intelligence_ between the two of them to run cicles around the Pharosi... or so they'd love to think.
+
+### Role Play Notes
+
+* **OPENING TRANSMISSION** Skywalkers : Isolated Isles
+* Once the Blarina realise that Metajj Vos is interested in knowing more about Maz... Barb and Way look at each other and perk up - the challenge is on. They each in turn tell more outlandish tales of the exploits of Maz. Startings with her adventures as a smuggler, to how Maz and Chewbacca hooked up and had a family (Wookies have a lifespan of 400 years, Maz has been around for much longer), to the force wielding exploits of Maz. Also: 
+    * What do Maz' goggles allow her to see?
+    * How _did_ Maz come to be in possession of Luke's Lightsabre?
+    * What other artefacts were kept in the castle's basement?
+* Once the story of 'other artefacts' has been told, Tremmil Losi interupts the Blarina and calls them out on their game.
+**CHOICE EVENT** Tremmil Losi calls on Metajj Vos to not waste her time with the Blarina Smugglers. Still keen to get off of Takodana, they offer Metajj a tribute ... an artifact they recovered from Maz Castle which they claim to belongs to Leia Organa. It's an artifact which is said to guide force sensitive users back to her....
+    1. Metajj accepts the tribute
+        * The Blarina join the Alexandria. They don't even ask where it's heading. 
+        * The artefact can be given to Grand Augury Noush to further the cause.
+    2. Metajj rejects the tribute
+        * Showzu is amused by the Blarina's dramatic display, and scans both of them - their volutars join the Alexandira
+
 ## Cantina on Ankhural
 
 ![](http://vignette3.wikia.nocookie.net/starwars/images/0/07/MEC.JPG/revision/latest?cb=20090224163944)
@@ -181,14 +207,6 @@ On the remote world of Quell, a relic of another era has taken refuge. Guided by
 |      Jamie Edwards     |       Manji Toss       |   [Mandalorian][12]  |  [Ankhural][28] |     [Death Watch][39]   |
 
 
-## Maz' Smugglers
-
-![](http://img.lum.dolimg.com/v1/images/maz_s-castle_c40bd1e2.jpeg?region=158%2C0%2C1756%2C878)
-
-|       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
-|:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
-|      Emma Rennell      |      Barb Lovells      |     [Blarina][6]     |  [Takodana][23] |     [Maz Castle][35]    |
-|    William Lawrenson   |        Way Smith       |     [Blarina][6]     |  [Takodana][23] |     [Maz Castle][35]    |
 
 
 ## Knights of Ren
