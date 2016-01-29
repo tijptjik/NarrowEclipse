@@ -19,6 +19,12 @@ This Star Wars Anthology story opens on the verge of the coup where Sherin, play
 
 The _Alexandria_ drifts through space without setting a course - it's operations often indifferent to their whereabouts. The Alexandria carries intel for cargo, sourcing and selling it through transmissions sent over encrypted comms. They are known as the Pharosi Intelligence Network and count many, often competing, factions amongst their clientele. The First Officer, the Umbaran _Tremmil Losi_, updates his Commander _Metajj Vos_ on the latest intel they've gathered and details the movement of the set pieces they monitor. The Alexandria, a Consular-class space cruiser, came equiped with a C-6TS protocol droid which dutifully relays urgent transmissions to the commander. The crew might be small, with just over a dozen agents gathering, routing and auctioning intelligence, the Alexandria is a special unit in the vast Pharosi network, as the actions of its crew will become known as the ascent of the Narrow Eclipse. It began by lifting the Pharosi Veil...
 
+### Role Play Notes
+
+* As Navigator _Tremmil Losi_ determines which planet to visit next and sets up the backstory and calls down the characters to take up the positions.
+* As Communications Doird, _C-6TS_ is responsible for relaying intergalactic transmissions to Metajj. The Transmissions will be preloaded on a tablet, sorted in play order.
+* **TRANSMISSION** : Narrow Eclipse : The Pharosi Veil
+
 ## Biomorph Resonator Tech
 
 ![Vesper V](http://img2.wikia.nocookie.net/__cb20130114154426/starwars/images/e/e8/Starbasecarida.jpg)
@@ -47,6 +53,8 @@ As a rational man, Showzu never took pride in his lab coat's Vesper emblem. He's
 * In both choice event outcomes, Showzu Hare elaborates on the miracle of BRATTS.
 * BRATTS allows Metajj Vos to pick up all the people she encounters on her missions throughout the galaxy. Instead of having to convince the physical person to join their quest - potentially exposing the hidden nature of the Pharosi Network - Metajj can simply scan them and have their volutars come aboard the Alexandria.
 * This opens up the possibility of using volutars on future quests - the crew on the Alexandria can instruct the volutars, but due to the prototype status of the ATSS the volutars may not always behave as expected. If Showzu joins the crew, he can attempt to fix these inconsistencies. 
+* **EXIT TRANSMISSION** : First Order : Kyber Crystals
+* **EXIT TRANSMISSION** : Resistance : New Leadership
 
 
 ## Spice Mines of Kessel
@@ -59,7 +67,17 @@ As a rational man, Showzu never took pride in his lab coat's Vesper emblem. He's
 |         Ivo Hos        |       Roth Hogan       |     [Quarren][10]    |   [Kessel][26]  |       [Slaves][37]      |
 |        Toby Fung       |      Yvette Corell     |     [Quarren][10]    |   [Kessel][26]  |       [Slaves][37]      |
 
-**OBJECTIVE** : Send a Slaver to the Senate as the elected official for Kessel.
+
+### Role Play Notes
+
+* **OPENING TRANSMISSION** Infinity Guild : Shafts Run Deep 
+* **CHOICE EVENT** The Alexandria Crew will provide Metajj Vos with two options:
+    1.
+        * **EXIT TRANSMISSION** Infinity Guild : Kessel Spice
+    2.
+        * **EXIT TRANSMISSION** Infinity Guild : Kessel Crossing
+
+**OUTCOME** : Send a Slaver to the Senate as the elected official for Kessel.
 
 ## Dark Matter Press
 
@@ -75,6 +93,9 @@ As a rational man, Showzu never took pride in his lab coat's Vesper emblem. He's
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
 |   Claudio Canzonetta   |     Gibson Mallick     |      [Human][1]      | [Dantooine][22] |   [Droid Merchants][34] |
 |      Maegan Cowan      | Sentinel Droid Mark IV |  [Kellenech Tech][9] |  [Dantooine][22]|     Droid Resistance    |
+
+
+### Role Play Notes
 
 **OUTCOME** : Send a Corrupt Merchant to the Senate as the elected official for Dantooine.
 
@@ -94,6 +115,9 @@ As a rational man, Showzu never took pride in his lab coat's Vesper emblem. He's
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
 |  Egill Bjarki Jónsson  |     Soren Yavinson     |     [Togruta][8]     |    [Ilum][25]   |  [Church o/t Force][36] |
 | Helga Björk Jónsdóttir |    Sloan Netherbane    |      [Human][1]      |    [Ilum][25]   |  [Church o/t Force][36] |
+
+
+### Role Play Notes
 
 **OUTCOME** : Send a child to the Senate as the elected official for Ilum.
 
@@ -163,3 +187,51 @@ Consular-class space cruiser, Alexandria
 
 
 
+
+
+[1]: http://starwars.wikia.com/wiki/Human
+[2]: http://starwars.wikia.com/wiki/Dathomirian
+[3]: http://starwars.wikia.com/wiki/Umbaran
+[4]: http://starwars.wikia.com/wiki/Nikto
+[5]: http://starwars.wikia.com/wiki/Arkanian
+[6]: http://starwars.wikia.com/wiki/Blarina
+[7]: http://starwars.wikia.com/wiki/Cybot_Galactica
+[8]: http://starwars.wikia.com/wiki/Togruta
+[9]: http://starwars.wikia.com/wiki/Kellenech_Technologies
+[10]: http://starwars.wikia.com/wiki/Quarren
+[11]: http://starwars.wikia.com/wiki/Nautolan
+[12]: http://starwars.wikia.com/wiki/Mandalorian
+[13]: http://starwars.wikia.com/wiki/Cloning
+[14]: http://starwars.wikia.com/wiki/Mirialan
+[15]: http://starwars.wikia.com/wiki/Pyke
+[16]: http://starwars.wikia.com/wiki/Serv-O-Droid,_Inc.
+[17]: http://starwars.wikia.com/wiki/Pantoran
+[18]: http://starwars.wikia.com/wiki/Twi%27lek
+[19]: http://starwars.wikia.com/wiki/Zygerrian
+[20]: http://starwars.wikia.com/wiki/Panda
+[21]: http://starwars.wikia.com/wiki/Lothal
+[22]: http://starwars.wikia.com/wiki/Dantooine
+[23]: http://starwars.wikia.com/wiki/Takodana  
+[24]: http://starwars.wikia.com/wiki/Chandrila 
+[25]: http://starwars.wikia.com/wiki/Ilum 
+[26]: http://starwars.wikia.com/wiki/Kessel 
+[27]: http://starwars.wikia.com/wiki/Endor 
+[28]: http://starwars.wikia.com/wiki/Ankhural 
+[29]: http://starwars.wikia.com/wiki/Quell 
+[30]: http://starwars.wikia.com/wiki/D%27Qar
+[31]: http://starwars.wikia.com/wiki/Finalizer 
+[32]: http://starwars.wikia.com/wiki/Tython 
+[33]: http://starwars.wikia.com/wiki/Zygerria 
+[34]: http://starwars.wikia.com/wiki/Merchant/Legends
+[35]: http://starwars.wikia.com/wiki/Maz_Kanata%27s_castle 
+[36]: http://starwars.wikia.com/wiki/Church_of_the_Force
+[37]: http://starwars.wikia.com/wiki/Slavery/Legends
+[38]: http://starwars.wikia.com/wiki/Knights_of_Ren
+[39]: http://starwars.wikia.com/wiki/Death_Watch
+[40]: http://starwars.wikia.com/wiki/Pyke_Syndicate/Legends
+[41]: http://starwars.wikia.com/wiki/Resistance
+[42]: http://starwars.wikia.com/wiki/New_Republic
+[43]: http://starwars.wikia.com/wiki/First_Order
+[44]: http://starwars.wikia.com/wiki/Zygerrian_Slave_Empire
+[45]: http://starwars.wikia.com/wiki/Toydarian
+[46]: http://starwars.wikia.com/wiki/Toydaria
