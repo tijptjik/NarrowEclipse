@@ -1,8 +1,8 @@
 # Characters 
 
-* [Protagonist](#Protagonist)
-* [Scenes](#Scenes)
-* [Transmission](#Transmission)
+* [Protagonist](#protagonist)
+* [Scenes](#scenes)
+* [Transmission](#transmissions)
 
 ## Protagonist
 
@@ -16,6 +16,8 @@ With knowledge rarifying, it's gaining in value, rising in power.
 ## Scenes
 
 ### Aboard the Alexandria
+
+![](http://vignette2.wikia.nocookie.net/starwars/images/9/9e/RazorsEdge-SWBlog.jpg/revision/latest?cb=20130925042808)
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
@@ -51,6 +53,8 @@ Navigator, and First Officer on the Alexandria.
 
 ### Spice Mines of Kessel
 
+![](http://vignette1.wikia.nocookie.net/starwars/images/a/ab/Spice_Mines_of_Kessel.png/revision/latest?cb=20140929054610)
+
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |       Richard Abs      |      D'lore Mantra     |       Pyke      |   Kessel   |  Pyke Crime Syndicate  |
@@ -66,6 +70,8 @@ Navigator, and First Officer on the Alexandria.
 
 ### Bazaar Raiders
 
+![](http://vignette1.wikia.nocookie.net/starwars/images/6/6c/MalganMarketTCW.png/revision/latest?cb=20131017184410)
+
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |   Claudio Canzonetta   |     Gibson Mallick     |      Human      |  Dantooine |     Droid Merchants    |
@@ -80,6 +86,8 @@ Navigator, and First Officer on the Alexandria.
 
 ### Secrets of Immortality
 
+![](http://vignette2.wikia.nocookie.net/starwars/images/0/03/Clones_TheDeserter.jpg/revision/latest?cb=20110919015752)
+
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |       Bill McCord      |          Archy         |      Clone      |    Quell   |       Independent      |
@@ -90,6 +98,8 @@ Navigator, and First Officer on the Alexandria.
 
 
 ### Kyber Crystal Cave
+
+![](http://vignette3.wikia.nocookie.net/starwars/images/1/19/IlumJediTempleInterior-TG.png/revision/latest?cb=20131019052651)
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
@@ -102,6 +112,8 @@ Navigator, and First Officer on the Alexandria.
 
 ### Cantina on Ankhural
 
+![](http://vignette3.wikia.nocookie.net/starwars/images/0/07/MEC.JPG/revision/latest?cb=20090224163944)
+
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |      Jamie Edwards     |       Manji Toss       |   Mandalorian   |  Ankhural  |       Death Watch      |
@@ -110,6 +122,8 @@ Death Watch in league with the First Order.
 
 
 ### Maz' Smugglers
+
+![](http://img.lum.dolimg.com/v1/images/maz_s-castle_c40bd1e2.jpeg?region=158%2C0%2C1756%2C878)
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
@@ -121,6 +135,8 @@ Death Watch in league with the First Order.
 
 
 ### Knights of Ren
+
+![](http://i.imgur.com/7sKn7Be.png)
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|

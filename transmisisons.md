@@ -1,5 +1,15 @@
 # Incoming Transmissions
 
+* Narrow Eclipse
+* First Order
+* Resistance
+* Skywalkers
+* Droid Resistance
+* Infinity Guild
+* Zygerrian Slave Empire
+* Panda Planet
+* Spamwaves
+
 ## Narrow Eclipse : The Pharosi Veil
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
@@ -96,16 +106,19 @@ In response to Zaphira Renlith's request for the 'right' senators to be elected,
 |  Niels van der Linden  |     Plutarch Koine     |      Human      |   Tython   |     Infinity Guild     |
 |     Dikkie Engelen     |      Lady Neuville     |     Twi'lek     |   Tython   |     Infinity Guild     |
 
-The conditions of the Kessel Spice Mines are notoriously abysmal. Every once in a while there's a rebellion amongst the enslaved miners who will try and break free. You are quite partial to the income generated from the mines so wantto stamp out the rebellion even before it gets started. You will try to enlist Metajj Vos to find the seed of the rebellion and trample over it with an iron boot.
+The conditions of the Kessel Spice Mines are notoriously abysmal. Every once in a while there's a rebellion amongst the enslaved miners who will try and break free. You are quite partial to the income generated from the mines so want to stamp out the rebellion even before it gets started. You will try to enlist Metajj Vos to find the seed of the rebellion and trample over it with an iron boot.... 
+
+Lady Neuville effortlessly follows the meandering trends in fashion - but there is one series of accessories which never goes out of style. One which she has yet to fully own. The Sacrificial Shawl Collection is a series of shawls  woven from the hair of aliens who stood up - and fell - for something they believed in. The spirit of audacity is thought to seep into the hair the moment their life flows out of them. There are 10 species across 10 planets from which the Shawls can be harvested. Kessel is one of them, and it's the very last item missing from Lady Neuville's Sacrificial Shawl Collection. This would make her the _first_ being ever to have all ten sacrifces to choose from on a given occasion... You've got to have goals in life.
 
 ###  Suggested Narrative Points
 
-* Illustrate how the miners could be punished for their  insurgance.
-* Have Lady Neuville wonder point out that it isn't a crime until it's been commited. Explain in colourful terms that acrime is committed as soon as the miners even think of exceeding their purpose of being miners.
+* Illustrate how the miners could be punished for their insurgance.
+* Have Lady Neuville wonder point out that it isn't a crime until it's been commited. Explain in colourful terms that a crime is committed as soon as the miners even think of exceeding their purpose of being miners!
 
 ###  Key Narrative Points : 
 
-* Send Metajj to Kessel, and direct her to speak with D'lore Mantra , the person in control of the mines.
+* Have Lady Neuvillae explain her Sacrificial Shawl Collection... and that the only thing missing from it is ... a Wookie who started a Kessel uprising.
+* Send Metajj to Kessel, and direct her to speak with D'lore Mantra, the person in control of the mines.
 
 
 ## Infinity Guild : Kessel Spice
@@ -114,11 +127,30 @@ The conditions of the Kessel Spice Mines are notoriously abysmal. Every once in 
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |     Dikkie Engelen     |      Lady Neuville     |     Twi'lek     |   Tython   |     Infinity Guild     |
 
+##  Suggested Narrative Points
+
+* Talk about how the subjugation of some is neccesary for enable the great deeds of ohers. Think about the 7 wonders of the galaxy, all built under the whip.
+
+###  Key Narrative Points : 
+
+* Express gratitude to Metajj Vs for completing your shawl collection. Show off a shawl if you have one.
+
+
 ## Infinity Guild : Kessel Crossing
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |     Dikkie Engelen     |      Lady Neuville     |     Twi'lek     |   Tython   |     Infinity Guild     |
+
+
+##  Suggested Narrative Points
+
+* Wonder out loud how many Sacrificial Shawls Metajj Vos has in her possession - NONE! That's because she's worthless and would never amount to anything worthy of sacrifice.
+
+###  Key Narrative Points : 
+
+* Express disappointment in to Metajj Vs for letting a perfect uprising go to waste... you've aged ten years just thinking about the wait for another rebellion. 
+
 
 
 ## Skywalkers : Isolated Isles
@@ -197,7 +229,7 @@ Your slavers reported that they saw encampments setup on the barren Ice World of
 * Send Metajj to confirm rumours that Force Sensitive Childeren are harvesting Kyber Crystals on _Ilum_ 
 
 
-## Spamwaves
+## Panda Planet : Join Us!
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
@@ -205,8 +237,15 @@ Your slavers reported that they saw encampments setup on the barren Ice World of
 
 Voor iedereen heb ik dus specifieke rollen geschreven die in het verhaal passen, maar voor jou vond ik het juist leuk om iets meer aan ‘world-building’ te doen .. sfeer-verijking! Dus in plaats van dat het het verhaal volgt, kan het een filmpje, of een klein serie van video snippets zijn die zich aan Sherin ‘opdringen’ als ze allerlei serieuze shit aan het uitzoeken is :) Dus vooral als je zon’ beren masker hebt! Dan moet je eigenlijk een ‘message of love’ de ruimte insturen en iedereen uitnodigen naar de knuffel planeet! Of dus spam reclame voor iets wat die beren maken, of een request for ‘information’. Sherin runt een spy network, dus wellicht dat die beren ook iets over het helal willen weten. Misschien is Sherin wel een soort 0900 nummer voor beertjes waar ze denken met al hun vragen over het helal terecht te kunnen! :) Hahha kan dus echt super veel mee gedaan worden :) Videos hoeven echt niet lang te zijn, een van 2-3 minuten, of 3 van 1/2-1 minuut? Daar zat ik ongeveer aan te denken. Maar plezier staat voorop! Dus maak er van wat je wilt!
 
+## Spamwaves : You won't believe..
+
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |     Benjamin James     |    Theodore Karpman    |     Unknown     |   Unknown  |         Unknown        |
+
+|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
+|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
+|     Taylor Wilson      |       Carp Ditto       |     Unknown     |   Unknown  |         Unknown        |
+
 
 Commercials for Droid Markets.

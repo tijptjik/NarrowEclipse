@@ -1,6 +1,5 @@
 ## Plot Order
 
-
 ### Somewhere... in the Outer Rim
 
 1. **MEDIA** Opening Crawl

@@ -37,8 +37,8 @@
 |        Dan Elias       |     Rocco Cavalier     |    [Zygerrian][19]   |  [Zygerria][33] | [Zyg. Slave Empire][44] |
 |      Hayley Elias      |         Harlan         |    [Zygerrian][19]   |  [Zygerria][33] | [Zyg. Slave Empire][44] |
 |       Simone Trum      |       Itashi Flam      |      [Panda][20]     |   Panda Planet  |       Panda Planet      |
-|     Benjamin James     |    Theodore Karpman    |      [Human][1]      |     Unknown     |         Spamwaves       |
-|      Tylor Wilson      |    Theodore Karpman    |      [Human][1]      |     Unknown     |         Spamwaves       |
+|     Benjamin James     |       Sappo Karpi      |    [Toydarian][45]   |  [Toydaria][46] |         Spamwaves       |
+|      Tylor Wilson      |        Willa Zusk      |    [Toydarian][45]   |  [Toydaria][46] |         Spamwaves       |
 
 
 [1]: http://starwars.wikia.com/wiki/Human
@@ -85,3 +85,5 @@
 [42]: http://starwars.wikia.com/wiki/New_Republic
 [43]: http://starwars.wikia.com/wiki/First_Order
 [44]: http://starwars.wikia.com/wiki/Zygerrian_Slave_Empire
+[45]: http://starwars.wikia.com/wiki/Toydarian
+[46]: http://starwars.wikia.com/wiki/Toydaria
