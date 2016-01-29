@@ -9,7 +9,7 @@
 - [ ] William Lawrenson
 - [ ] Connie Leung
 - [ ] Anis Sfeir
-- [x] Oliva Madrid
+- [ ] Oliva Madrid
 - [ ] Egill Bjarki Jónsson
 - [ ] Helga Björk Jónsdóttir
 - [ ] Maegan Cowan
@@ -18,8 +18,8 @@
 - [ ] Jane Pong
 - [ ] Alex Bedwell
 - [ ] Jamie Edwards
-- [x] Bill McCord
-- [x] Nadira Lamrad
+- [ ] Bill McCord
+- [ ] Nadira Lamrad
 - [ ] YH Chia
 - [ ] Richard Abs
 
@@ -29,24 +29,16 @@
 - [x] Simone Trum
 - [x] Benjamin Hall
 - [x] Rayla Heide
+- [x] Kent Sutherland
 - [x] Isak Ladegaard
-- [ ] Niels van der Linden
-- [ ] Dikkie Engelen
+- [x] Niels van der Linden
+- [x] Dikkie Engelen
 - [x] Ivar Posthumus
 - [x] Janneke Vissers
 - [x] Dan Elias
 - [x] Hayley Elias
-- [ ] Benjamin James
-
-# Transmission
-
-* Narrow Eclipse
-* First Order
-* Resistance
-* Skywalkers
-* Droid Resistance
-* Infinity Guild
-* Zygerrian Slave Empire
+- [x] Benjamin James
+- [x] Taylor Wilson
 
 # Unavailable
 
@@ -65,7 +57,5 @@
 - Lisette Berndt
 - Loes van Esch
 - Koen Taselaar
-- Kent Sutherland
-- Taylor Wilson
 - Kirsty Rose
 
