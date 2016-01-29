@@ -64,23 +64,39 @@ As a rational man, Showzu never took pride in his lab coat's Vesper emblem. He's
 |       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
 |       Richard Abs      |      D'lore Mantra     |       [Pyke][15]     |   [Kessel][26]  |   [Pyke Syndicate][40]  |
-|         Ivo Hos        |       Bakwarro         |      [Wookie][47]    |   [Kessel][26]  |       [Slaves][37]      |
+|         Ivo Hos        |         Bakwarro       |      [Wookie][47]    |   [Kessel][26]  |       [Slaves][37]      |
 |        Toby Fung       |      Yvette Corell     |     [Quarren][10]    |   [Kessel][26]  |       [Slaves][37]      |
+|       Tom Grundy       |        P4823626        |      [Human][1]      |   [Kessel][26]  |       [Slaves][37]      |
+|        Jane Pong       |        P8392466        |      [Human][1]      |   [Kessel][26]  |       [Slaves][37]      |
 
 For years, the Pyke Syndicate has dealt with spice mined from Kessel, utilizing smugglers and freighter captains to deliver it to the crime families of Coruscant. The Galactic Empire operated a mining operation, employing numerous slaves, including Wookiees, to harvest spice. Meanwhile, the Kessel royal family lives in lush sanctuaries in the planet's southern hemisphere, turning a blind eye to the brutal working conditions in the mines of the northern hemisphere.
 
+The most recent uprising is still fresh in everyone's memory - everyone that's managed to live on for the six months which have since passed at least. The mining captain D'lore Mantra is particular vicious with the slaves under which lucked out and have fallen under his supervision. Other than the spice mines, Kessel is a barren planet, thus for entertainment D'lore devises exceedingly cruel psychological games to play with his slaves. For one, he sets a weekly sequence of ever increasing mining targets, but keeps them hidden till the mining bell rings in the end of the day. Slaves which exceed the target keep their food rations, those who miss it get them halved. This ploy weeds out the weak, awards him the highest output of any mine in Kessel, and breaks a slave's will as they become consumed by hitting the invisible mining targets. Intensely racist, the Pyke captain spews endless vitrol over his Human, Quarrren and Wookie subjects. 
+
+Meanwhile, the Wookie Bakwarro and Quarren Yvette Corell, are plotting the next rebellion. Deep inside the mines, they've convinced others to concentrate their mined spice with a few of them so at least some of them will hit the targets. Every day it's a different set of slaves which receive more spice than they could have mined themselves, so on the whole - as a group and as individuals - they stay strong... waiting for the right moment to spark the next rebellion.
+
+It's a great scheme, and it might even have worked, if Yvette Corell hadn't sold off that piece all her co-conspirators were trading on - the trust that she was still one of them. About a month ago, a Rodian bounty hunter passed through Kessel and managed to seclude Yvette long enough to relay his proposal. She was to stir up a Rebellion lead by a Wookie - it _had_ to be a Wookie - and she would regain her freedom, regardless of whether the rebellion succeeded. Yvette gave the Rodian her word, and has been plotting and stirring up descent ever since. 
 
 ### Role Play Notes
 
 * **OPENING TRANSMISSION** Infinity Guild : Shafts Run Deep 
-* Upon arrival, the Pharosi will meet with D'lore Mantra, asking about the Uprising.
-* **CHOICE EVENT** The Alexandria Crew will provide Metajj Vos with two options:
-    1.
-        * **EXIT TRANSMISSION** Infinity Guild : Kessel Spice
-    2.
+* Upon arrival, the Pharosi will meet with D'lore Mantra, asking about the Uprising. He has no idea who would be responsible, but has any number of stories to share about his succesful oppression of the slaves.
+* P4823626 & P8392466 are slaves which have been completely consumed by their life as a slave and don't respond to anything other than the orders of the captain. They will ignore or brush off Metajj's interactions. They are just there to be bossed around by Mining Captain D'lore Mantra. D'lore will tell Metajj off for attempt to contact the Mines.
+* After a signal from the Story Master, Bakwarro and Yvette Corell will storm the tower where D'lore Mantra holds office. With improvised weapons (sticks) they attempt to hit him, but a quick draw of his blaster means that they are equally quick to surrender. 
+* Bakwarro appeals in _Shyriiwook_, but no one understands the Wookie.
+* Captain Mantra then turns to Corell and asks her to expose her co-conspirators. Instead, she divulges how the Rodian bounty hunter promised to return her freedom if she incited a Rebellion
+* **CHOICE EVENT** Teasing out the Pharosi moral fault lines, Captain Mantra poses the question to Metajj Vos - who should be executed. The Wookie for leading the Rebellion... and frankly, for being a Wookie... or the Quarren. Who's responsible the fool who incited an uprising or the fool that follows him? 
+    1. Metajj elects Yvette Corell for execution
+        * Showzu takes this as an excellent opportunity to test how the post-mortem decay in muscle memory and scans Yvette Corell - her volutar joins the Alexandria.
+        * Showzu makes note of how strong the Wookie is and menacing the Pyke and scans them both - Bakwarro and Captain Mantra's volutars join the Alexandria.
         * **EXIT TRANSMISSION** Infinity Guild : Kessel Crossing
+    2. Metajj elects Bakwarro for execution
+        * Showzu takes this as an excellent opportunity to test how the post-mortem decay in muscle memory and scans Bakwarro - his volutar joins the Alexandria.
+        * Showzu makes note how he doesn't have a Quarren or a Pyke in his collection yet and scans Yvette Corell and Captain Mantra - Yvette and Captain Mantra's volutars join the Alexandria.
+        * **EXIT TRANSMISSION** Infinity Guild : Kessel Spice
+* Tremmil Losi commends D'Lore Mantra for his ethics, and urges him to seek greater dominion than a patchwork of mine shafts. Perhaps... the Senate would be furtile ground, as a representative of Kessel?
+* **OUTCOME** : Send a Slaver to the Senate as the elected official for Kessel.        
 
-**OUTCOME** : Send a Slaver to the Senate as the elected official for Kessel.
 
 ## Dark Matter Press
 
