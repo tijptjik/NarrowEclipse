@@ -206,9 +206,18 @@ Looking for a way to get off-world at a Takodana space port, two Blarina smuggle
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
 |      Jamie Edwards     |       Manji Toss       |   [Mandalorian][12]  |  [Ankhural][28] |     [Death Watch][39]   |
 
+Ankhural's most notorious cantina _Null Vantage_ is infamous for being a safe haven for rogue offifcer and defectors.Death Watch member Manji Toss drinks his _Lum_ as he awaits a bounty hunter assignment worthy of his skill. His split from the First Order is still fresh, and he isn't saving any of it. Openly talking about his stint with the First Order, Manji deplores the First Orders ignore obsession with building yet _another_ death star after that method had failed the Empire twice. They should have trusted in the tactical superiority of the Knights of Ren, and the Death Watch.
+
 ### Role Play Notes
 
-
+* Navigator Tremmil Losi suggests that since the are on a course which passes Ankhural, they ought to check in at a local watering hole infamous for being a safe haven for rogue offifcer and defectors. With Starkiller base destroyed there are bound to be some troops which deserted their First Order posts.
+* Upon entry of the _Null Vantage_ start playing [Cantina Music](https://www.youtube.com/watch?v=IuUxwziMNQU&list=PLWrFOOqRuJGMZ1xJ_LVlHH8lSMTSr5RY1)
+* All crew and volutars are momentarily transformed into patrons of the _Null Vantage_ and either dance to _That Wampa Down_ or are otherwise engaged in cantina-like behaviour. Everyone brushes off Metajj and refuses to interact with her. 
+* Metajj Vos moves through the crowd till she recognises the Mandalorian sipping his drink. Coming off a rough job?
+* Manji talks openly about hiw knowledge of the First Order and mentions the Knights of Ren.
+* Knowing Knights of Ren, Metajj pushes him to back up his story with something more tangible... like where did all this even take place?
+* Manji Toss then reveals that the Knights of Ren used Endor as their training grounds. 
+* The Pharosi buy him another round and go on their way.
 * **Exit TRANSMISSION** Resistance : Civil Decay
 
 
@@ -221,10 +230,15 @@ Looking for a way to get off-world at a Takodana space port, two Blarina smuggle
 |      Alex Bedwell      |         Ti Ren         |      [Human][1]      |    [Endor][27]  |   [Knights of Ren][38]  |
 |         YH Chia        |      Pyremane Sash     |     [Mirialan][14]   |    [Endor][27]  |      Narrow Eclipse     |
 
+As warshippers of Lord Vader, the Knights of Ren have created a shrine in his name on Endor. Unaware of the irony that it was there, on Endor, that in his final moments Darth Vader renounced the dark side and died, Annikin Skywalker. The Knights of Ren have used Ewoks for target practice, and the intrepid species which once frolicked and spanned the surface of the forst moon, are now cause to be sentimental as they have gone extinct.
+
+On Endor, the cunning Knight _Ti Ren_ has taken a hostage. A hostage who proves to be none other than Pharosi agent _Pyremane Sash_. The Mirialan was working her way up the First Order when the Knights of Ren got suspicious of the resources Pyremane had at her disposal - it was as if with every mission they sent her on, whether supported or not, she would always come back with results suggesting she had brought the entire Imperial Fleet to bare on the problem. 
 
 ### Role Play Notes
 
 * **OPENING TRANSMISSION** Skywalkers : Cast in Red
+
+* **MUSIC** [Revans Theme](https://www.youtube.com/watch?v=PumEuWLv8Ag)
 
 
 ## Acolytes of the Narrow Eclipse
@@ -236,34 +250,21 @@ Looking for a way to get off-world at a Takodana space port, two Blarina smuggle
 |      Connie Leung      |   Grand Augury Noush   |      [Human][1]      | [Chandrila][24] |      Narrow Eclipse     |
 |       Anis Sfeir       |  Vennegourd Prolassian |      [Human][1]      | [Chandrila][24] |      Narrow Eclipse     |
 
-With 
+With all its pieces in play, the Pharosi Network is ready for the coup. Metajj Vos is called back the Temple of the Narrow Eclipse where its mysterious leader, Grand Augury Noush, bestows upon Metajj Vos the honour of delivering the final blow.  With all the well-placed Pharosi agents, the recovered Skywalker and Ren artifacts, and a small squad of volutars, Metajj is bestowed the title of _Twilight Prime_, and heralds in the Era of the Narrow Eclipse.
 
 ### Role Play Notes
 
-* **OPENING TRANSMISSION** Narrow Eclipse : Synthesis
+* **OPENING TRANSMISSION** Narrow Eclipse : Twilight Prime
+* Vennegourd Prolassian welcomes the Alexandria Crew with the Narrow Eclipse salute, and brings them to the inner chamber where Grand Augury Noush awaits them.
+* **MUSIC** _The Jedi Steps and Finale_
+* Grand Augury Noush lifts her hood and addresses Metaj Vos, beckons her to come forward and relay her tidings.
+* Receiving the recovered Skywalker and Ren artifacts, Grand Augury Noush speaks of the twilight era where the Dark and Light side  are superceded by a singular reading of the Force - drawing on the spectrum, refusing to take sides. 
+* The volutars and other crew line up in rows of 5 on the side of the chamber. 
+* The ranks of volutar and crew are pledged to Metajj Vos, and all deliver the Narrow Eclipse salute.
+* **MUSIC** `1:37` : "I hereby bestow upon you the title of _Twilight Prime_, Terminal to the Duality of the Force, Harbinger of the Twilight. Rise now, Twilight Prime Vos, and bring about ... the Narrow Eclipse!"
 
-
-
-# Notes 
 
 ----
-
-
-
-## Acolytes of the Narrow Eclipse
-
-* How did the first order know where precisely on Jakku to land their Stormtroopers?
-
-* After the destruction of the Hosnian system we re-activated R2D2 to provide the resistance with the remaining 
-
-Ice planets or Teddy Bears. No Death Stars or Killer Bases. I hand the torch to you Metajj, set the darkness alight, and extinguish any hope with a narrow eclipse. 
-
-There will be no secrets to base. 
-
-The Acolytes of the Narrow Eclipse, will cast shade upon light and 
-
-Rise Metajj Vos, take the Biomorph Resonator 
-
 
 [1]: http://starwars.wikia.com/wiki/Human
 [2]: http://starwars.wikia.com/wiki/Dathomirian

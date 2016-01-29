@@ -30,7 +30,7 @@
 - [x] Benjamin Hall
 - [x] Rayla Heide
 - [x] Kent Sutherland
-- [ ] Isak Ladegaard
+- [x] Isak Ladegaard
 - [ ] Niels van der Linden
 - [ ] Dikkie Engelen
 - [x] Ivar Posthumus

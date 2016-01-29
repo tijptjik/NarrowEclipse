@@ -113,13 +113,16 @@ Chief Scientist on the Biomorph Resonator Tech project.
 
 ### Cantina on Ankhural
 
-![](http://vignette3.wikia.nocookie.net/starwars/images/0/07/MEC.JPG/revision/latest?cb=20090224163944)
+![](http://majorspoilers.com/wp-content/uploads/2013/01/ACW_IA_109399_R.jpg)
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |      Jamie Edwards     |       Manji Toss       |   Mandalorian   |  Ankhural  |       Death Watch      |
 
-Death Watch in league with the First Order. 
+The warrior clans of Mandalore were believed to have been wiped out ages ago, their tattered remnants exiled to the Concordia moon. But as the Clone Wars swept the galaxy, the treacherous governor Pre Vizsla resurrected the Mandalorians, and with them, their legendary combat armor that was feared across the galaxy. The warriors wandered the galaxy for a time, then helped conquer Mandalore as part of Darth Maul’s Shadow Collective. With the rise of the empire, the Deatch Watch reformed into an elite task force under direct command of Darth Vader. With the fall of the Empire, the Death Watch fell into small factions. Some joined the First Order, but few were convinced the First Order was a worthy heir to the Empire.
+
+Proud Mandalorian, Manji Toss, a member of the Death Watch - if 'member' is defined as loosely as the 'Death Watch' itself is these days - fell out of grace with the First Order and is now making a living as a bounty hunter. With their heriditary hatred for the Jedi, the Death Watch followed the movements of the Knight of Ren with great interest.
+
 
 
 ### Maz' Smugglers
