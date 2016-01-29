@@ -64,13 +64,16 @@ As a rational man, Showzu never took pride in his lab coat's Vesper emblem. He's
 |       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
 |       Richard Abs      |      D'lore Mantra     |       [Pyke][15]     |   [Kessel][26]  |   [Pyke Syndicate][40]  |
-|         Ivo Hos        |       Roth Hogan       |     [Quarren][10]    |   [Kessel][26]  |       [Slaves][37]      |
+|         Ivo Hos        |       Bakwarro         |      [Wookie][47]    |   [Kessel][26]  |       [Slaves][37]      |
 |        Toby Fung       |      Yvette Corell     |     [Quarren][10]    |   [Kessel][26]  |       [Slaves][37]      |
+
+For years, the Pyke Syndicate has dealt with spice mined from Kessel, utilizing smugglers and freighter captains to deliver it to the crime families of Coruscant. The Galactic Empire operated a mining operation, employing numerous slaves, including Wookiees, to harvest spice. Meanwhile, the Kessel royal family lives in lush sanctuaries in the planet's southern hemisphere, turning a blind eye to the brutal working conditions in the mines of the northern hemisphere.
 
 
 ### Role Play Notes
 
 * **OPENING TRANSMISSION** Infinity Guild : Shafts Run Deep 
+* Upon arrival, the Pharosi will meet with D'lore Mantra, asking about the Uprising.
 * **CHOICE EVENT** The Alexandria Crew will provide Metajj Vos with two options:
     1.
         * **EXIT TRANSMISSION** Infinity Guild : Kessel Spice
@@ -235,3 +238,4 @@ Consular-class space cruiser, Alexandria
 [44]: http://starwars.wikia.com/wiki/Zygerrian_Slave_Empire
 [45]: http://starwars.wikia.com/wiki/Toydarian
 [46]: http://starwars.wikia.com/wiki/Toydaria
+[47]: http://starwars.wikia.com/wiki/Wookiee

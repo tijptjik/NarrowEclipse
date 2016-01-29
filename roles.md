@@ -17,7 +17,7 @@
 |  Egill Bjarki Jónsson  |     Soren Yavinson     |     [Togruta][8]     |    [Ilum][25]   |  [Church o/t Force][36] |
 | Helga Björk Jónsdóttir |    Sloan Netherbane    |      [Human][1]      |    [Ilum][25]   |  [Church o/t Force][36] |
 |      Maegan Cowan      | Sentinel Droid Mark IV |  [Kellenech Tech][9] |  [Dantooine][22]|     Droid Resistance    |
-|         Ivo Hos        |       Roth Hogan       |     [Quarren][10]    |   [Kessel][26]  |       [Slaves][37]      |
+|         Ivo Hos        |         Bakwarro       |      [Wookie][47]    |   [Kessel][26]  |       [Slaves][37]      |
 |        Toby Fung       |      Yvette Corell     |     [Quarren][10]    |   [Kessel][26]  |       [Slaves][37]      |
 |        Jane Pong       |      Josie Sarkinn     |     [Nautolan][11]   |   [Lothal][21]  |      Tauntaun House     |
 |      Alex Bedwell      |         Ti Ren         |      [Human][1]      |    [Endor][27]  |   [Knights of Ren][38]  |
@@ -87,3 +87,4 @@
 [44]: http://starwars.wikia.com/wiki/Zygerrian_Slave_Empire
 [45]: http://starwars.wikia.com/wiki/Toydarian
 [46]: http://starwars.wikia.com/wiki/Toydaria
+[47]: http://starwars.wikia.com/wiki/Wookiee

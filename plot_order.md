@@ -28,7 +28,6 @@ or
 
 ### Lothal
 
-1. **MEDIA** SKYWALKERS : Troubled Lineage
 1. **SCENE** Dark Matter Press 
 1. **MEDIA** First Order : Crystals on Illium
 ---
