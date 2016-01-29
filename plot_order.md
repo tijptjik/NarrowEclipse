@@ -4,12 +4,12 @@
 
 1. **MEDIA** Opening Crawl
 1. **SCENE** Aboard the Alexandria
+1. **MEDIA** Narrow Eclipse : The Pharosi Veil
 
 ---
 
 ### Vesper V
 
-1. **MEDIA** Narrow Eclipse : The Pharosi Veil
 1. **SCENE** Biomorph Resonator Tech
 1. **MEDIA** First Order : Kyber Crystals
 1. **MEDIA** Resistance : New Leadership

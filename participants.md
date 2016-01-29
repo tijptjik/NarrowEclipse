@@ -2,14 +2,14 @@
 
 - [x] Sherin Siew
 - [x] Mart van de Ven
+- [ ] Oliva Madrid
+- [ ] Matt Nodurft
 - [ ] Tom Grundy
 - [ ] Claudio Canzonetta
-- [ ] Matt Nodurft
 - [ ] Emma Rennell
 - [ ] William Lawrenson
 - [ ] Connie Leung
 - [ ] Anis Sfeir
-- [ ] Oliva Madrid
 - [ ] Egill Bjarki Jónsson
 - [ ] Helga Björk Jónsdóttir
 - [ ] Maegan Cowan
@@ -27,16 +27,16 @@
 # Overseas Participants 
 
 - [x] Simone Trum
-- [x] Benjamin Hall
+- [ ] Benjamin Hall
 - [x] Rayla Heide
 - [x] Kent Sutherland
-- [x] Isak Ladegaard
-- [x] Niels van der Linden
-- [x] Dikkie Engelen
-- [x] Ivar Posthumus
-- [x] Janneke Vissers
-- [x] Dan Elias
-- [x] Hayley Elias
+- [ ] Isak Ladegaard
+- [ ] Niels van der Linden
+- [ ] Dikkie Engelen
+- [ ] Ivar Posthumus
+- [ ] Janneke Vissers
+- [ ] Dan Elias
+- [ ] Hayley Elias
 - [x] Benjamin James
 - [x] Taylor Wilson
 

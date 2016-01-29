@@ -3,7 +3,7 @@
 
 Following the events of _The Force Awakens_, the major powers are seriously weakened. The Resistance celebrates its victory and Luke Skywalker's return, yet without a senate, the New Republic is steerless. The First Order is equally destablised, bewailing the loss of Starkiller Base. This state of chaos has cast a rift from which a _third_ force emerges: The ACOLYTES OF THE NARROW ECLIPSE are on the verge of staging a pan-galactic coup.
 
-The Narrow Eclipse operate under the guise of the Pharosi intelligence network which is as much about gathering knowledge as is it about disseminating lies. Pharosi Agents have maneuvered themselves into key positions across all power factions and are at the ready to turn on their supposed allies. The Narrow Eclipse have no military arm, but are scheming their way into power by securing the mutually assured destruction of their nemeses: The _Pharosi_  revealed Lor San Tekka's location to the First Order, and the _Pharosi_  remotely activated R2-D2 just in time to reveal the Resistance's last hope.
+The Narrow Eclipse operate under the guise of the Pharosi intelligence network which is as much about gathering knowledge as is it about disseminating lies. Pharosi Agents have maneuvered themselves into key positions across all power factions and are at the ready to turn on their supposed allies. The Narrow Eclipse have no military arm, but are scheming their way into power by securing the mutually assured destruction of their nemeses: The _Pharosi_  revealed Lor San Tekka's location to the First Order, and the _Pharosi_ remotely activated R2-D2 just in time to reveal the Resistance's last hope.
 
 This Star Wars Anthology story opens on the verge of the coup where Sherin, playing Pharosi Agent Metajj, is tasked with the recovery of Biomorph Resonator Tech from Vesper V. BR Tech allows anyone to cast a volumetric avatar which is almost indistinguishable from an actual person. The innovation under development on Vesper V is a scanner which would allow the Acolytes to extract avatars from anyone they managed to scan. As Commander of the Alexandria, Metajj will scour the galaxy scanning characters that will prove vital for heralding in the era of the Narrow Eclipse....
 
@@ -17,6 +17,7 @@ This Star Wars Anthology story opens on the verge of the coup where Sherin, play
 |     Mart van de Ven    |      Tremmil Losi      |     [Umbaran][3]     |   Alexandria    |      Narrow Eclipse     |
 |      Oliva Madrid      |          C-6TS         | [Cybot Galactica][7] |   Alexandria    |      Narrow Eclipse     |
 
+The _Alexandria_ drifts through space without setting a course - it's operations often indifferent to their whereabouts. The Alexandria carries intel for cargo, sourcing and selling it through transmissions sent over encrypted comms. They are known as the Pharosi Intelligence Network and count many, often competing, factions amongst their clientele. The First Officer, the Umbaran _Tremmil Losi_, updates his Commander _Metajj Vos_ on the latest intel they've gathered and details the movement of the set pieces they monitor. The Alexandria, a Consular-class space cruiser, came equiped with a C-6TS protocol droid which dutifully relays urgent transmissions to the commander. The crew might be small, with just over a dozen agents gathering, routing and auctioning intelligence, the Alexandria is a special unit in the vast Pharosi network, as the actions of its crew will become known as the ascent of the Narrow Eclipse. It began by lifting the Pharosi Veil...
 
 ## Biomorph Resonator Tech
 
@@ -25,6 +26,19 @@ This Star Wars Anthology story opens on the verge of the coup where Sherin, play
 |       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
 |      Matt Nodurft      |       Showzu Hare      |     [Arkanian][5]    |    Vesper V     |      Vesper Academy     |
+
+On Vesper V, Chief Scientist Showzu Hare is in the final stages of developing 
+
+BR Tech allows anyone to cast a volumetric avatar which is almost indistinguishable from an actual person. The innovation under development on Vesper V is a scanner which would allow the Acolytes to extract avatars from anyone they managed to scan
+
+1. Steal the technology without asking for it
+    - XXX Runs out after the Pharosi and confronts them, eventually losing the skirmish. 
+    - The Pharosi are now known as thieves. 
+    - Damanged BR Tech cannot be repaired.
+1. Pursuade that BR Tech needs to be tested under real world circumstances to confirm it works.
+    - The BR Tech is tested on Tremmil Losi. 
+    - The Pharosi aqcuire the tech, and XXX joins the Party.
+
 
 
 ## Spice Mines of Kessel
@@ -37,7 +51,7 @@ This Star Wars Anthology story opens on the verge of the coup where Sherin, play
 |         Ivo Hos        |       Roth Hogan       |     [Quarren][10]    |   [Kessel][26]  |       [Slaves][37]      |
 |        Toby Fung       |      Yvette Corell     |     [Quarren][10]    |   [Kessel][26]  |       [Slaves][37]      |
 
-
+**OBJECTIVE** : Send a Slaver to the Senate as the elected official for Kessel.
 
 ## Dark Matter Press
 
@@ -54,6 +68,7 @@ This Star Wars Anthology story opens on the verge of the coup where Sherin, play
 |   Claudio Canzonetta   |     Gibson Mallick     |      [Human][1]      | [Dantooine][22] |   [Droid Merchants][34] |
 |      Maegan Cowan      | Sentinel Droid Mark IV |  [Kellenech Tech][9] |  [Dantooine][22]|     Droid Resistance    |
 
+**OUTCOME** : Send a Corrupt Merchant to the Senate as the elected official for Dantooine.
 
 ## Secrets of Immortality
 
@@ -72,6 +87,7 @@ This Star Wars Anthology story opens on the verge of the coup where Sherin, play
 |  Egill Bjarki Jónsson  |     Soren Yavinson     |     [Togruta][8]     |    [Ilum][25]   |  [Church o/t Force][36] |
 | Helga Björk Jónsdóttir |    Sloan Netherbane    |      [Human][1]      |    [Ilum][25]   |  [Church o/t Force][36] |
 
+**OUTCOME** : Send a child to the Senate as the elected official for Ilum.
 
 ## Cantina on Ankhural
 
@@ -109,13 +125,6 @@ This Star Wars Anthology story opens on the verge of the coup where Sherin, play
 # Notes 
 
 ----
-1. Steal the technology without asking for it
-    - XXX Runs out after the Pharosi and confronts them, eventually losing the skirmish. 
-    - The Pharosi are now known as thieves. 
-    - Damanged BR Tech cannot be repaired.
-1. Pursuade that BR Tech needs to be tested under real world circumstances to confirm it works.
-    - The BR Tech is tested on Tremmil Losi. 
-    - The Pharosi aqcuire the tech, and XXX joins the Party.
 
 
 

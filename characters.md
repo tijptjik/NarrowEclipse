@@ -29,7 +29,7 @@ Responsible for Intergalactic Communications. Relays transmissions received from
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |     Mart van de Ven    |      Tremmil Losi      |     Umbaran     | Alexandria |     Narrow Eclipse     |
 
-Navigator, and First Officer on the Alexandria. 
+First Officer and Navigator on the Alexandria. 
 
 
 ### Biomorph Resonator Tech
@@ -38,6 +38,7 @@ Navigator, and First Officer on the Alexandria.
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |      Matt Nodurft      |       Showzu Hare      |     Arkanian    |  Vesper V  |     Vesper Academy     |
 
+Chief Scientist on the Biomorph Resonator Tech project.
 
 ### Dark Matter Press
 
