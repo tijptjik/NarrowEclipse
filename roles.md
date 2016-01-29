@@ -2,8 +2,8 @@
 
 ## Overview 
 
-|       Participant      |        Character       |     Species          |   Location       |        Allegiance       |
-|:----------------------:|:----------------------:|:--------------------:|:----------------:|:-----------------------:|
+|       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
+|:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
 |       Sherin Siew      |       Metajj Vos       |    [Dathomiri][2]    |   Alexandria    |      Narrow Eclipse     |
 |     Mart van de Ven    |      Tremmil Losi      |     [Umbaran][3]     |   Alexandria    |      Narrow Eclipse     |
 |       Tom Grundy       |        Mak Dent        |      [Nikto][4]      |   [Lothal][21]  |     Dark Matter Press   |
