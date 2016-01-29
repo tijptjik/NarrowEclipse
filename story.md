@@ -99,6 +99,8 @@ It's a great scheme, and it might even have worked, if Yvette Corell hadn't sold
 
 ## Dark Matter Unplugged
 
+![](http://vignette4.wikia.nocookie.net/starwars/images/8/81/AlderaanRefugeeConference-Assassin.png/revision/latest?cb=20130513020309)
+
 |       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
 |       Tom Grundy       |        Mak Dent        |      [Nikto][4]      |   [Lothal][21]  |   Dark Matter Unplugged |
@@ -128,6 +130,8 @@ Once arrived on Lothal, the Alexandria crew disembark and walk into a press conf
 
 ## Bazaar Raiders
 
+![](http://vignette1.wikia.nocookie.net/starwars/images/6/6c/MalganMarketTCW.png/revision/latest?cb=20131017184410)
+
 |       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
 |   Claudio Canzonetta   |     Gibson Mallick     |      [Human][1]      | [Dantooine][22] |   [Droid Merchants][34] |
@@ -140,11 +144,19 @@ Once arrived on Lothal, the Alexandria crew disembark and walk into a press conf
 
 ## Secrets of Immortality
 
+![](http://vignette1.wikia.nocookie.net/starwars/images/b/bf/Epguide210.png/revision/latest?cb=20120903164454)
+
 |       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
 |       Bill McCord      |          Archy         |      [Clone][13]     |    [Quell][29]  |       Independent       |
-|      Nadira Lamrad     |      Qaxis Quarll      |      [Human][1]      |    [Quell][29]  |       Independent       |
+|      Nadira Lamrad     |      Qaxis Quarll      |     [Twi'Lek][18]    |    [Quell][29]  |       Independent       |
 
+On the remote world of Quell, a relic of another era has taken refuge. Guided by his mentor, and lover, Qaxis Quarll, who might be the galaxy's greatest genetisist has used her gift all but once, afraid of the consequences ifher talents were known.
+
+### Role Play Notes
+
+* **OPENING TRANSMISSION** : Narrow Eclipse : The Eternal Eclipse
+*
 
 ## Kaiber Crystal Cave
 
@@ -162,12 +174,16 @@ Once arrived on Lothal, the Alexandria crew disembark and walk into a press conf
 
 ## Cantina on Ankhural
 
+![](http://vignette3.wikia.nocookie.net/starwars/images/0/07/MEC.JPG/revision/latest?cb=20090224163944)
+
 |       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
 |      Jamie Edwards     |       Manji Toss       |   [Mandalorian][12]  |  [Ankhural][28] |     [Death Watch][39]   |
 
 
 ## Maz' Smugglers
+
+![](http://img.lum.dolimg.com/v1/images/maz_s-castle_c40bd1e2.jpeg?region=158%2C0%2C1756%2C878)
 
 |       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
@@ -177,6 +193,8 @@ Once arrived on Lothal, the Alexandria crew disembark and walk into a press conf
 
 ## Knights of Ren
 
+![](http://i.imgur.com/7sKn7Be.png)
+
 |       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
 |      Alex Bedwell      |         Ti Ren         |      [Human][1]      |    [Endor][27]  |   [Knights of Ren][38]  |
@@ -185,7 +203,7 @@ Once arrived on Lothal, the Alexandria crew disembark and walk into a press conf
 
 ## Acolytes of the Narrow Eclipse
 
-![](http://jkhub.org/index.php?app=downloads&module=display&section=screenshot&record=42600&id=2498&full=1)
+![](http://vignette4.wikia.nocookie.net/starwars/images/2/2f/CouncilOfNeutralSystems.png/revision/latest?cb=20120905231922)
 
 |       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
@@ -212,20 +230,6 @@ There will be no secrets to base.
 The Acolytes of the Narrow Eclipse, will cast shade upon light and 
 
 Rise Metajj Vos, take the Biomorph Resonator 
-
-
-We have gathered the innocents of the galaxy and together 
-
-We have 
-
-
-
-## Plot Lines
-
-Consular-class space cruiser, Alexandria
-
-
-
 
 
 [1]: http://starwars.wikia.com/wiki/Human

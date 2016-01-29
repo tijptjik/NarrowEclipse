@@ -23,7 +23,7 @@
 |      Alex Bedwell      |         Ti Ren         |      [Human][1]      |    [Endor][27]  |   [Knights of Ren][38]  |
 |      Jamie Edwards     |       Manji Toss       |   [Mandalorian][12]  |  [Ankhural][28] |     [Death Watch][39]   |
 |       Bill McCord      |          Archy         |      [Clone][13]     |    [Quell][29]  |       Independent       |
-|      Nadira Lamrad     |      Qaxis Quarll      |      [Human][1]      |    [Quell][29]  |       Independent       |
+|      Nadira Lamrad     |      Qaxis Quarll      |     [Twi'lek][18]    |    [Quell][29]  |       Independent       |
 |         YH Chia        |      Pyremane Sash     |     [Mirialan][14]   |    [Endor][27]  |      Narrow Eclipse     |
 |       Richard Abs      |      D'lore Mantra     |       [Pyke][15]     |   [Kessel][26]  |   [Pyke Syndicate][40]  |
 |      Benjamin Hall     |          CZ-7          |   [Serv-O-Droid][16] |    [D'Qar][30]  |     Droid Resistance    |
