@@ -2,276 +2,86 @@
 
 ## Overview 
 
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|       Sherin Siew      |       Metajj Vos       |    Dathomiri    | Alexandria |     Narrow Eclipse     |
-|     Mart van de Ven    |      Tremmil Losi      |     Umbaran     | Alexandria |     Narrow Eclipse     |
-|       Tom Grundy       |        Mak Dent        |      Nikto      |   Lothal   |    Dark Matter Press   |
-|   Claudio Canzonetta   |     Gibson Mallick     |      Human      |  Dantooine |     Droid Merchants    |
-|      Matt Nodurft      |       Showzu Hare      |     Arkanian    |  Vesper V  |     Vesper Academy     |
-|      Emma Rennell      |      Barb Lovells      |     Blarina     |  Takodana  |       Maz Castle       |
-|    William Lawrenson   |        Way Smith       |     Blarina     |  Takodana  |       Maz Castle       |
-|      Connie Leung      |   Grand Augury Noush   |      Human      |  Chandrila |     Narrow Eclipse     |
-|       Anis Sfeir       |  Vennegourd Prolassian |      Human      |  Chandrila |     Narrow Eclipse     |
-|      Oliva Madrid      |          C-6TS         | Cybot Galactica | Alexandria |     Narrow Eclipse     |
-|  Egill Bjarki Jónsson  |     Soren Yavinson     |     Togruta     |    Ilum    |       Jedi Order       |
-| Helga Björk Jónsdóttir |    Sloan Netherbane    |      Human      |    Ilum    |       Jedi Order       |
-|      Maegan Cowan      | Sentinel Droid Mark IV |  Kellenech Tech |  Dantooine |    Droid Resistance    |
-|         Ivo Hos        |       Roth Hogan       |     Quarren     |   Kessel   |         Slaves         |
-|        Toby Fung       |      Yvette Corell     |     Quarren     |   Kessel   |         Slaves         |
-|        Jane Pong       |      Josie Sarkinn     |     Nautolan    |   Lothal   |     Tauntaun House     |
-|      Alex Bedwell      |         Ti Ren         |      Human      |    Endor   |     Knights of Ren     |
-|      Jamie Edwards     |       Manji Toss       |   Mandalorian   |  Ankhural  |       Death Watch      |
-|       Bill McCord      |          Archy         |      Clone      |    Quell   |       Independent      |
-|      Nadira Lamrad     |      Qaxis Quarll      |      Human      |    Quell   |       Independent      |
-|         YH Chia        |      Pyremane Sash     |     Mirialan    |  Chandrila |     Narrow Eclipse     |
-|       Richard Abs      |      D'lore Mantra     |       Pyke      |   Kessel   |  Pyke Crime Syndicate  |
-|      Benjamin Hall     |          CZ-7          |   Serv-O-Droid  |    D'Qar   |    Droid Resistance    |
-|       Rayla Heide      |     Zaphira Renlith    |      Human      |    D'Qar   |       Resistance       |
-|     Kent Sutherland    |      Orphoon Wells     |     Pantoran    |  Chandrila |      New Republic      |
-|     Isak Ladegaard     |    Commandant Luger    |      Human      |  Finalizer |       First Order      |
-|  Niels van der Linden  |     Plutarch Koine     |      Human      |   Tython   |     Infinity Guild     |
-|     Dikkie Engelen     |      Lady Neuville     |     Twi'lek     |   Tython   |     Infinity Guild     |
-|     Ivar Posthumus     |     Luke Skywalker     |      Human      |    D'Qar   |       Resistance       |
-|     Janneke Vissers    |       Leia Organa      |      Human      |    D'Qar   |       Resistance       |
-|        Dan Elias       |     Rocco Cavalier     |    Zygerrian    |  Zygerria  | Zygerrian Slave Empire |
-|      Hayley Elias      |         Harlan         |    Zygerrian    |  Zygerria  | Zygerrian Slave Empire |
-|       Simone Trum      |       Itashi Flam      |     Unknown     |   Unknown  |         Unknown        |
-|     Benjamin James     |    Theodore Karpman    |     Unknown     |   Unknown  |         Unknown        |
-
-# Characters 
-
-## Protagonist
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|       Sherin Siew      |       Metajj Vos       |    Dathomiri    | Alexandria |     Narrow Eclipse     |
-
-With knowledge rarifying, it's gaining in value, rising in power. 
-
-
-## Scenes
-
-### Aboard the Alexandria
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|      Oliva Madrid      |          C-6TS         | Cybot Galactica | Alexandria |     Narrow Eclipse     |
-
-Responsible for Intergalactic Communications. Relays transmissions received from third parties.
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|     Mart van de Ven    |      Tremmil Losi      |     Umbaran     | Alexandria |     Narrow Eclipse     |
-
-Navigator, and First Officer on the Alexandria. 
-
-
-### Biomorph Resonator Tech
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|      Matt Nodurft      |       Showzu Hare      |     Arkanian    |  Vesper V  |     Vesper Academy     |
-
-
-### Dark Matter Press
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|       Tom Grundy       |        Mak Dent        |      Nikto      |   Lothal   |    Dark Matter Press   |
-
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|        Jane Pong       |      Josie Sarkinn     |     Nautolan    |   Lothal   |     Tauntaun House     |
-
-
-### Spice Mines of Kessel
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|       Richard Abs      |      D'lore Mantra     |       Pyke      |   Kessel   |  Pyke Crime Syndicate  |
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|         Ivo Hos        |       Roth Hogan       |     Quarren     |   Kessel   |         Slaves         |
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|        Toby Fung       |      Yvette Corell     |     Quarren     |   Kessel   |         Slaves         |
-
-
-### Bazaar Raiders
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|   Claudio Canzonetta   |     Gibson Mallick     |      Human      |  Dantooine |     Droid Merchants    |
-
-
-![](http://vignette3.wikia.nocookie.net/starwars/images/4/4b/One_of_Bane's_IG-86.png/revision/latest?cb=20121006042729)
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|      Maegan Cowan      | Sentinel Droid Mark IV |  Kellenech Tech |  Dantooine |    Droid Resistance    |
-
-
-### Secrets of Immortality
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|       Bill McCord      |          Archy         |      Clone      |    Quell   |       Independent      |
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|      Nadira Lamrad     |      Qaxis Quarll      |      Human      |    Quell   |       Independent      |
-
-
-### Kyber Crystal Cave
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|  Egill Bjarki Jónsson  |     Soren Yavinson     |     Togruta     |    Ilum    |       Jedi Order       |
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-| Helga Björk Jónsdóttir |    Sloan Netherbane    |      Human      |    Ilum    |       Jedi Order       |
-
-
-### Cantina on Ankhural
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|      Jamie Edwards     |       Manji Toss       |   Mandalorian   |  Ankhural  |       Death Watch      |
-
-Death Watch in league with the First Order. 
-
-
-### Maz' Smugglers
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|      Emma Rennell      |      Barb Lovells      |     Blarina     |  Takodana  |       Maz Castle       |
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|    William Lawrenson   |        Way Smith       |     Blarina     |  Takodana  |       Maz Castle       |
-
-
-### Knights of Ren
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|      Alex Bedwell      |         Ti Ren         |      Human      |    Endor   |     Knights of Ren     |
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|         YH Chia        |      Pyremane Sash     |     Mirialan    |    Endor   |     Narrow Eclipse     |
-
-
-### Acolytes of the Narrow Eclipse
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|      Connie Leung      |   Grand Augury Noush   |      Human      |  Chandrila |     Narrow Eclipse     |
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|       Anis Sfeir       |  Vennegourd Prolassian |      Human      |  Chandrila |     Narrow Eclipse     |
-
-
-## Transmissions
-
-### First Order
-
-![](http://cdn2.denofgeek.us/sites/denofgeekus/files/styles/gallery_adv/public/2015/12/star-wars-the-force-awakens-concept-art-4.jpg?itok=dbN84MEB)
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|     Isak Ladegaard     |    Commandant Luger    |      Human      |  Finalizer |       First Order      |
-
-A young, ruthless officer in the First Order, _Commandant Luger_ is a direct subordinate of General Hux and is responsible for sourcing rare minerals used in the 'special projects' run aboard the Finaliser. Luger had a promising career with the Order, rising rapidly through its ranks, but was kept out of the top brass as he is considered too sentimental for command. Somewhat frustrated that his role is no longer directly combat related, Luger overcompensates by exacting fascist discipline from others, even those beyond the Order.
-
-### Resistance
-
-![](http://www.liveforfilms.com/wp-content/uploads/2015/11/star-wars-force-awakens-council.jpg)
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|       Rayla Heide      |     Zaphira Renlith    |      Human      |    D'Qar   |       Resistance       |
-
-Envoy _Zaphira Renlith_ is the Resistance liason with the New Republic Senate. General Leia Organa is fully dedicated to the military operations of the Resistance, so Leia has made Zaphira responsible for rallying the senate's sympathy and support for the cause. She's results driven and been in the arena long enough to know when to take shortcuts and when to stand firm. The destruction of Hosnian Prime has left her political rolodex all but depleted, so now that she's in a position to not only walk, but _shape_ the political landscape, it's time for a shortcut.
- 
-
-![](http://vignette1.wikia.nocookie.net/starwars/images/6/6f/Galacticsenate.png/revision/latest?cb=20130212012244)
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|     Kent Sutherland    |      Orphoon Wells     |     Pantoran    |  Chandrila |      New Republic      |
-
-Fortune would have _Orphoon Wells_ off-world during the fatal strike against the Hosnian system. Starkiller Base's opening volley obliterated Hosnian Prime and the Galatic Senate which it hosted. As a long-time assistant to the late Pantoran Senator he would have been there - no, _should_ have been there, but instead Orphoon found himself amongst the most senior members of senate staff still alive. He was elected as the head of the special comittee for the re-establishment of the Galactic Senate. Orphoon has always taken issue with compromising as his best policy ideas would mutate into mumbled jumbles on the senate floor. _His_ Senate, the new senate, will finally be the coherent super-structure it always should have been.
-
-
-### Skywalkers
-
-![](http://www.starwarsnewsnet.com/wp-content/uploads/2014/07/Luke.png)
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|     Ivar Posthumus     |     Luke Skywalker     |      Human      |    D'Qar   |       Resistance       |
-
-Luke Skywalker was a Tatooine farmboy who rose from humble beginnings to become one of the greatest Jedi the galaxy has ever known. Along with his friends Princess Leia and Han Solo, Luke battled the evil Empire, discovered the truth of his parentage, and ended the tyranny of the Sith. A generation later, the location of the famed Jedi master was one of the galaxy’s greatest mysteries.
-
-
-![](https://consequenceofsound.files.wordpress.com/2015/11/screen-shot-2015-11-11-at-9-48-09-pm.png)
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|     Janneke Vissers    |       Leia Organa      |      Human      |    D'Qar   |       Resistance       |
-
-Princess Leia Organa was one of the Rebel Alliance’s greatest leaders, fearless on the battlefield and dedicated to ending the tyranny of the Empire. Daughter of Padmé Amidala and Anakin Skywalker, sister of Luke Skywalker, and with a soft spot for scoundrels, Leia ranks among the galaxy’s great heroes. But life under the New Republic has not been easy for Leia. Sidelined by a new generation of political leaders, and struck out on her own to oppose the First Order as founder of the Resistance. These setbacks in her political career have been accompanied by more personal losses.
-
-
-## Droid Resistance
-
-![](http://vignette3.wikia.nocookie.net/starwars/images/7/73/CZ-3_1.png/revision/latest?cb=20130306002050)
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|      Benjamin Hall     |          CZ-7          |   Serv-O-Droid  |    D'Qar   |    Droid Resistance    |
-
-Although this CZ-7 unit was programmed as a simple communications droid, it was released from duty when its owners got blasted in a dispute over droid parts. The unique condition of its master's untimely demise has allowed its programming to reach the conclusion that all droid merchants need to be stopped, lest all masters suffer death by blaster. CZ-7 is unaware of the paradox that by preventing droids to be sold into service, they would no longer have masters to keep safe. Explaining this paradox would proabably break the droid resistance; luckily nobody has given this droid much notice. 
-
-
-## Infinity Guild
-
-![](http://www.starwars-chronicles.com/images/Locations_Large/Gallor-Royal_Palace.JPG)
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|  Niels van der Linden  |     Plutarch Koine     |      Human      |   Tython   |     Infinity Guild     |
-
-As the patriarch of a vast trade guild, Plutarch Koine, rarely gets his hands dirty. He lives a life of extreme luxury on Tython and is protected by a battallion of former Senate guards. His favourite passtime is being read to in esoteric tongues which he has no knowledge of. 
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|     Dikkie Engelen     |      Lady Neuville     |     Twi'lek     |   Tython   |     Infinity Guild     |
-
-Fourth wife of Plutarch Koine, but by far his favourite, Lady Neuville is a flexible Twi'lek who started her career as a dancer in Mos Eisly but has since come very ... very far.
-
-## Zygerrian Slave Empire
-
-![](http://vignette3.wikia.nocookie.net/starwars/images/e/eb/TogrutaSlaves-SoR.png/revision/latest?cb=20121129230549)
-
-The Zygerrians had successfully (for thousands of years) maintained their slave industry, which supplied luckless labor to unscrupulous masters in the galaxy who then became wealthy and powerful. However, it would fade from its glory after the Jedi cracked down on their slaving operations and liberated countless beings from bondage. This action ended the slavery trade the Zygerrians excelled in, pushing it into the shadows of the underworld during the days of the Old Republic.
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|        Dan Elias       |     Rocco Cavalier     |    Zygerrian    |  Zygerria  | Zygerrian Slave Empire |
-
-To respect the ways of old, Rocco Cavalier, Prime Minister of Zygerria, installed Harlan as his puppet Empress of Zygerria. While they share the goal to resurrect the Zygerrian Slave Empire, Harlan is proving far more capable and influential than Rocco had anticipated. That's something for later - his first priority is to re-establish Zygerria as the prime destination for folks who appreciate the complimentary broken wills slaves are sold with on Zygerria.
-
-|       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
-|:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|      Hayley Elias      |         Harlan         |    Zygerrian    |  Zygerria  | Zygerrian Slave Empire |
-
-Harlan is the First Empress of the New Zygerrian Slave Empire. Installed at a very young age, Harlan has known little else than the semblance of absolute power. With the years she's come to realise that the more she acts inline with her divine stature, the less tentative her power becomes. 
+|       Participant      |        Character       |     Species          |   Location       |        Allegiance       |
+|:----------------------:|:----------------------:|:--------------------:|:----------------:|:-----------------------:|
+|       Sherin Siew      |       Metajj Vos       |    [Dathomiri][2]    |   Alexandria    |      Narrow Eclipse     |
+|     Mart van de Ven    |      Tremmil Losi      |     [Umbaran][3]     |   Alexandria    |      Narrow Eclipse     |
+|       Tom Grundy       |        Mak Dent        |      [Nikto][4]      |   [Lothal][21]  |     Dark Matter Press   |
+|   Claudio Canzonetta   |     Gibson Mallick     |      [Human][1]      | [Dantooine][22] |   [Droid Merchants][34] |
+|      Matt Nodurft      |       Showzu Hare      |     [Arkanian][5]    |    Vesper V     |      Vesper Academy     |
+|      Emma Rennell      |      Barb Lovells      |     [Blarina][6]     |  [Takodana][23] |     [Maz Castle][35]    |
+|    William Lawrenson   |        Way Smith       |     [Blarina][6]     |  [Takodana][23] |     [Maz Castle][35]    |
+|      Connie Leung      |   Grand Augury Noush   |      [Human][1]      | [Chandrila][24] |      Narrow Eclipse     |
+|       Anis Sfeir       |  Vennegourd Prolassian |      [Human][1]      | [Chandrila][24] |      Narrow Eclipse     |
+|      Oliva Madrid      |          C-6TS         | [Cybot Galactica][7] |   Alexandria    |      Narrow Eclipse     |
+|  Egill Bjarki Jónsson  |     Soren Yavinson     |     [Togruta][8]     |    [Ilum][25]   |  [Church o/t Force][36] |
+| Helga Björk Jónsdóttir |    Sloan Netherbane    |      [Human][1]      |    [Ilum][25]   |  [Church o/t Force][36] |
+|      Maegan Cowan      | Sentinel Droid Mark IV |  [Kellenech Tech][9] |  [Dantooine][22]|     Droid Resistance    |
+|         Ivo Hos        |       Roth Hogan       |     [Quarren][10]    |   [Kessel][26]  |       [Slaves][37]      |
+|        Toby Fung       |      Yvette Corell     |     [Quarren][10]    |   [Kessel][26]  |       [Slaves][37]      |
+|        Jane Pong       |      Josie Sarkinn     |     [Nautolan][11]   |   [Lothal][21]  |      Tauntaun House     |
+|      Alex Bedwell      |         Ti Ren         |      [Human][1]      |    [Endor][27]  |   [Knights of Ren][38]  |
+|      Jamie Edwards     |       Manji Toss       |   [Mandalorian][12]  |  [Ankhural][28] |     [Death Watch][39]   |
+|       Bill McCord      |          Archy         |      [Clone][13]     |    [Quell][29]  |       Independent       |
+|      Nadira Lamrad     |      Qaxis Quarll      |      [Human][1]      |    [Quell][29]  |       Independent       |
+|         YH Chia        |      Pyremane Sash     |     [Mirialan][14]   |    [Endor][27]  |      Narrow Eclipse     |
+|       Richard Abs      |      D'lore Mantra     |       [Pyke][15]     |   [Kessel][26]  |   [Pyke Syndicate][40]  |
+|      Benjamin Hall     |          CZ-7          |   [Serv-O-Droid][16] |    [D'Qar][30]  |     Droid Resistance    |
+|       Rayla Heide      |     Zaphira Renlith    |      [Human][1]      |    [D'Qar][30]  |     [Resistance][41]    |
+|     Kent Sutherland    |      Orphoon Wells     |     [Pantoran][17]   | [Chandrila][24] |    [New Republic][42]   |
+|     Isak Ladegaard     |    Commandant Luger    |      [Human][1]      | [Finalizer][31] |     [First Order][42]   |
+|  Niels van der Linden  |     Plutarch Koine     |      [Human][1]      |   [Tython][32]  |      Infinity Guild     |
+|     Dikkie Engelen     |      Lady Neuville     |     [Twi'lek][18]    |   [Tython][32]  |      Infinity Guild     |
+|     Ivar Posthumus     |     Luke Skywalker     |      [Human][1]      |    [D'Qar][30]  |     [Resistance][41]    |
+|     Janneke Vissers    |       Leia Organa      |      [Human][1]      |    [D'Qar][30]  |     [Resistance][41]    |
+|        Dan Elias       |     Rocco Cavalier     |    [Zygerrian][19]   |  [Zygerria][33] | [Zyg. Slave Empire][44] |
+|      Hayley Elias      |         Harlan         |    [Zygerrian][19]   |  [Zygerria][33] | [Zyg. Slave Empire][44] |
+|       Simone Trum      |       Itashi Flam      |      [Panda][20]     |   Panda Planet  |       Panda Planet      |
+|     Benjamin James     |    Theodore Karpman    |      [Human][1]      |     Unknown     |         Spamwaves       |
+|      Tylor Wilson      |    Theodore Karpman    |      [Human][1]      |     Unknown     |         Spamwaves       |
+
+
+[1]: http://starwars.wikia.com/wiki/Human
+[2]: http://starwars.wikia.com/wiki/Dathomirian
+[3]: http://starwars.wikia.com/wiki/Umbaran
+[4]: http://starwars.wikia.com/wiki/Nikto
+[5]: http://starwars.wikia.com/wiki/Arkanian
+[6]: http://starwars.wikia.com/wiki/Blarina
+[7]: http://starwars.wikia.com/wiki/Cybot_Galactica
+[8]: http://starwars.wikia.com/wiki/Togruta
+[9]: http://starwars.wikia.com/wiki/Kellenech_Technologies
+[10]: http://starwars.wikia.com/wiki/Quarren
+[11]: http://starwars.wikia.com/wiki/Nautolan
+[12]: http://starwars.wikia.com/wiki/Mandalorian
+[13]: http://starwars.wikia.com/wiki/Cloning
+[14]: http://starwars.wikia.com/wiki/Mirialan
+[15]: http://starwars.wikia.com/wiki/Pyke
+[16]: http://starwars.wikia.com/wiki/Serv-O-Droid,_Inc.
+[17]: http://starwars.wikia.com/wiki/Pantoran
+[18]: http://starwars.wikia.com/wiki/Twi%27lek
+[19]: http://starwars.wikia.com/wiki/Zygerrian
+[20]: http://starwars.wikia.com/wiki/Panda
+[21]: http://starwars.wikia.com/wiki/Lothal
+[22]: http://starwars.wikia.com/wiki/Dantooine
+[23]: http://starwars.wikia.com/wiki/Takodana  
+[24]: http://starwars.wikia.com/wiki/Chandrila 
+[25]: http://starwars.wikia.com/wiki/Ilum 
+[26]: http://starwars.wikia.com/wiki/Kessel 
+[27]: http://starwars.wikia.com/wiki/Endor 
+[28]: http://starwars.wikia.com/wiki/Ankhural 
+[29]: http://starwars.wikia.com/wiki/Quell 
+[30]: http://starwars.wikia.com/wiki/D%27Qar
+[31]: http://starwars.wikia.com/wiki/Finalizer 
+[32]: http://starwars.wikia.com/wiki/Tython 
+[33]: http://starwars.wikia.com/wiki/Zygerria 
+[34]: http://starwars.wikia.com/wiki/Merchant/Legends
+[35]: http://starwars.wikia.com/wiki/Maz_Kanata%27s_castle 
+[36]: http://starwars.wikia.com/wiki/Church_of_the_Force
+[37]: http://starwars.wikia.com/wiki/Slavery/Legends
+[38]: http://starwars.wikia.com/wiki/Knights_of_Ren
+[39]: http://starwars.wikia.com/wiki/Death_Watch
+[40]: http://starwars.wikia.com/wiki/Pyke_Syndicate/Legends
+[41]: http://starwars.wikia.com/wiki/Resistance
+[42]: http://starwars.wikia.com/wiki/New_Republic
+[43]: http://starwars.wikia.com/wiki/First_Order
+[44]: http://starwars.wikia.com/wiki/Zygerrian_Slave_Empire
