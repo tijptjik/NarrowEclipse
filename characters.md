@@ -77,12 +77,15 @@ Chief Scientist on the Biomorph Resonator Tech project.
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |   Claudio Canzonetta   |     Gibson Mallick     |      Human      |  Dantooine |     Droid Merchants    |
 
+Extravagant Droid merchant, has been trading droids even since before they were retired in favour of meatbags on the battle field. He's built up a name for himself offering 'unique' twists to existing models. Gibson reflashes droids with firmware he patches up himself, creating ever more disgraceful hybrids of form and function. An aquatic droid that's now afraid of water, a Gonk trash can droid which is programmed to trip up as soon as he's filled up, an astromech droid which paves its own way with grease so its forever locked in place. Gibson Mallick _is_ a Droid Merchant, but he doesn't sell droids per se. He sells concepts, where his only idea seems to be the droids inferno.
 
-![](http://vignette3.wikia.nocookie.net/starwars/images/4/4b/One_of_Bane's_IG-86.png/revision/latest?cb=20121006042729)
+![](http://vignette3.wikia.nocookie.net/starwars/images/2/23/KT-400_military_droid_carrier.jpg/revision/latest?cb=20081012032526)
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |      Maegan Cowan      | Sentinel Droid Mark IV |  Kellenech Tech |  Dantooine |    Droid Resistance    |
+
+The Sentinel droid-series was the only known series of android among the war machines used by the Galactic Republic and the Sith Empire in the Jedi Civil War, making them a rare relic of forgotten times. Far superior in intelligence and operation to any of the battle droids, given the right ensemble, Sentinal Droids could pass for a helmet-wearing human. This particular sentinal droid has lost its operating number and distinction, as they were erased when the malicious droid merchant Mallick, flashed an entertainment ROM onto the droids memory banks. The sentinal droid now alternates dance moves with martial stances, in an unholy alliance which would only humour the twisted Gibson Mallick.Due to its extreme plight - to have become the possion of Gibson Mallick _and_ to remain in the possesion of Gibson Mallick as he doesn't intend to sell this droid - the Sentinal Droid is subject of a reocvery mission.
 
 
 ### Secrets of Immortality
@@ -222,7 +225,7 @@ Princess Leia Organa was one of the Rebel Alliance’s greatest leaders, fearles
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
 |      Benjamin Hall     |          CZ-7          |   Serv-O-Droid  |    D'Qar   |    Droid Resistance    |
 
-Although this CZ-7 unit was programmed as a simple communications droid, it was released from duty when its owners got blasted in a dispute over droid parts. The unique condition of its master's untimely demise has allowed its programming to reach the conclusion that all droid merchants need to be stopped, lest all masters suffer death by blaster. CZ-7 is unaware of the paradox that by preventing droids to be sold into service, they would no longer have masters to keep safe. Explaining this paradox would proabably break the droid resistance; luckily nobody has given this droid much notice. 
+Although this CZ-7 unit was programmed as a simple communications droid, it was released from duty when its owners got blasted in a dispute over droid parts. The unique condition of its master's untimely demise has allowed its programming to reach the conclusion that all droid merchants need to be stopped, lest all masters suffer death by blaster. CZ-7 is unaware of the paradox that by preventing droids to be sold into service, they would no longer have masters to keep safe. Explaining this paradox would probably break the droid resistance; luckily nobody has given this droid much notice. 
 
 
 ## Infinity Guild

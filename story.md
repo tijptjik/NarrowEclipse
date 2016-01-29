@@ -137,9 +137,23 @@ Once arrived on Lothal, the Alexandria crew disembark and walk into a press conf
 |   Claudio Canzonetta   |     Gibson Mallick     |      [Human][1]      | [Dantooine][22] |   [Droid Merchants][34] |
 |      Maegan Cowan      | Sentinel Droid Mark IV |  [Kellenech Tech][9] |  [Dantooine][22]|     Droid Resistance    |
 
+On behest of the Droid Resistance, the Alexandira sets course for Dantooine, punching in the coordinates for the  remnants of an abandonned Rebel Base. The base once contained a vast enclosure that could house dozens of small starfighters, dozens of droid-charging ports, advanced communications technology, and dozens of bunks for several hundred men. All those facilities have been converted into what is now one of the most thriving droid markets in the Outer Rim. Gibson Mallick, droid merchant extrordinaire, runs his flagship store here. It is from Gibson's store, or rather, from his personal stock that the Pharosi Vos will attempt to come acquire the services of a Sentinel Droid Mark IV.
 
 ### Role Play Notes
 
+* **OPENING TRANSMISSION** Droid : Droid Resistance
+* As the communication is directed at Metajj's droid, C-6TS, it is C-6TS who further elaborated on the purpose of the missions and the Droid Resistance's raison d'etre.
+* Upon arrival, Metajj hears the voice of Gibson Mallick from a distance, advertising his rare and specialist droids.
+* Gibson Mallick compliments Metajj's attire and traveling party, remarking how she doesn't carry herself with the self-importance of a Resistance fighter, nor with the spartan austerity dictated for First Order officers. She's important, obviously wealthy, and perhaps looking for something _out of this world_?
+* In order to ascertain his character, Metajj enquires about Gibson Mallick's business. 
+* Gibson details about all the splendid contraptions he's built over the years
+* Sentinel Droid Mark IV interupts him with a dance of joy - which ends with the droid gesturing retreat signals and falling back.
+* The Pharosi shows interest in the Sentinal Droid, but Gibson insists it is not for sale.
+* The Pharosi suggests that a man of his talents and skill, should never be satisfied with answering 'no' to anything, and instead should pose a challenge.
+* Gibson Mallick poses a riddle for Metajj to solve. If she solves it, she gets the droid, if she loses he gets to keep C-6TS.
+* If Metajj cannot guess it, Showzu steps in the ATSS to make a deep scan of Gibson also copying over whatever thought he had in his mind. Showzu then prompts the volutar to share the answer, thereby solving the riddle.
+* Metajj adopts Sentinel Droid Mark IV, and Showzu promised to undo the malicious firmware. 
+* Tremmil Losi suggests to Metajj that the galaxy would be a better place without Gibson Mallick - but it would be an _even better_ place if Mallick took up the Senetorial seat for Dantooine, as he would surely be too occupied with torturing other Senetors to address any policy issues.
 **OUTCOME** : Send a Corrupt Merchant to the Senate as the elected official for Dantooine.
 
 ## Secrets of Immortality
