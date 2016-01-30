@@ -29,7 +29,7 @@ or
 ### 4. Lothal
 
 1. **SCENE** Dark Matter Press 
-1. **MEDIA** First Order : Crystals on Illium
+1. **MEDIA** Planet Panda : Panda Panda
 ---
 
 ### 5. Dantooine
@@ -44,16 +44,15 @@ or
 <!-- 1. **MEDIA** Narrow Eclipse : The Eternal Eclipse -->
 
 1. **SCENE** Secrets of Immortality
+1. **MEDIA** Planet Panda : Panda Gathering
 
 ---
 
 ### 7. Illum
 
+1. **MEDIA** First Order : Crystals on Illium
 1. **MEDIA** Zygerrian Slave Empire : Force Labour
 1. **SCENE** Kaiber Crystal Cave
-1. **MEDIA** First Order : Crystals Recovered
-or
-1. **MEDIA** First Order : Crystals Destroyed
 
 ---
 
@@ -61,6 +60,9 @@ or
 
 1. **MEDIA** Skywalkers : Isolated Isles
 1. **SCENE** Maz' Smugglers
+1. **MEDIA** First Order : Crystals Recovered
+or
+1. **MEDIA** First Order : Crystals Destroyed
 
 ---
 

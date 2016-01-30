@@ -126,6 +126,7 @@ Once arrived on Lothal, the Alexandria crew disembark and walk into a press conf
     * Resistance Whereabouts - Reporting that the base is on Dantooine, while everybody knows it was on D'Qar!
 * As Mak Dent is hauled off by the security guards, Sarkinn quips "That's Press Freedom for you"
 * **OUTCOME** : A small batch of Kyber Crystals is mined and shipped to the First Order.
+* **EXIT TRANSMISSION** : Planet Panda : Panda Panda
 
 
 ## 5. Bazaar Raiders
@@ -154,7 +155,9 @@ On behest of the Droid Resistance, the Alexandira sets course for Dantooine, pun
 * If Metajj cannot guess it, Showzu steps in the ATSS to make a deep scan of Gibson also copying over whatever thought he had in his mind. Showzu then prompts the volutar to share the answer, thereby solving the riddle.
 * Metajj adopts Sentinel Droid Mark IV, and Showzu promised to undo the malicious firmware. 
 * Tremmil Losi suggests to Metajj that the galaxy would be a better place without Gibson Mallick - but it would be an _even better_ place if Mallick took up the Senetorial seat for Dantooine, as he would surely be too occupied with torturing other Senetors to address any policy issues.
-**OUTCOME** : Send a Corrupt Merchant to the Senate as the elected official for Dantooine.
+* OUTCOME** : Send a Corrupt Merchant to the Senate as the elected official for Dantooine.
+* **EXIT TRANSMISSION** Spamwaves : Inbox I
+
 
 ## 6. Secrets of Immortality
 
@@ -169,8 +172,9 @@ On the remote world of Quell, a relic of another era has taken refuge. Guided by
 
 ### Role Play Notes
 
-* **OPENING TRANSMISSION** : Narrow Eclipse : The Eternal Eclipse
-*
+<!-- * **OPENING TRANSMISSION** : Narrow Eclipse : The Eternal Eclipse -->
+* Navigator will set the course for Quell, checking out a rumour of immortality. 
+
 
 ## 7. Kaiber Crystal Cave
 
@@ -184,6 +188,9 @@ On the remote world of Quell, a relic of another era has taken refuge. Guided by
 
 ### Role Play Notes
 
+* **OPENING TRANSMISSION** : First Order : Crystals on Illium
+* **OPENING TRANSMISSION** : Planet Panda : Panda Gathering
+* **OPENING TRANSMISSION** : Zygerrian Slave Empire : Force Labour
 **OUTCOME** : Send a child to the Senate as the elected official for Ilum.
 
 ## 8. Maz' Smugglers
