@@ -174,6 +174,7 @@ On the remote world of Quell, a relic of another era has taken refuge. Guided by
 
 <!-- * **OPENING TRANSMISSION** : Narrow Eclipse : The Eternal Eclipse -->
 * Navigator will set the course for Quell, checking out a rumour of immortality. 
+* **EXIT TRANSMISSION** : Planet Panda : Panda Gathering
 
 
 ## 7. Kaiber Crystal Cave
@@ -189,7 +190,6 @@ On the remote world of Quell, a relic of another era has taken refuge. Guided by
 ### Role Play Notes
 
 * **OPENING TRANSMISSION** : First Order : Crystals on Illium
-* **OPENING TRANSMISSION** : Planet Panda : Panda Gathering
 * **OPENING TRANSMISSION** : Zygerrian Slave Empire : Force Labour
 **OUTCOME** : Send a child to the Senate as the elected official for Ilum.
 
