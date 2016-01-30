@@ -7,7 +7,7 @@ The Narrow Eclipse operate under the guise of the Pharosi intelligence network w
 
 This Star Wars Anthology story opens on the verge of the coup where Sherin, playing Pharosi Agent Metajj, is tasked with the recovery of Biomorph Resonator Tech from Vesper V. BR Tech allows anyone to cast a volumetric avatar which is almost indistinguishable from an actual person. The innovation under development on Vesper V is a scanner which would allow the Acolytes to extract avatars from anyone they managed to scan. As Commander of the Alexandria, Metajj will scour the galaxy scanning characters that will prove vital for heralding in the era of the Narrow Eclipse....
 
-## Aboard the Alexandria
+## 1. Aboard the Alexandria
 
 ![](http://cdn.obsidianportal.com/assets/27609/RepublicC70Frigate-TCW.jpg)
 
@@ -25,7 +25,7 @@ The _Alexandria_ drifts through space without setting a course - it's operations
 * As Communications Doird, _C-6TS_ is responsible for relaying intergalactic transmissions to Metajj. The Transmissions will be preloaded on a tablet, sorted in play order.
 * **TRANSMISSION** : Narrow Eclipse : The Pharosi Veil
 
-## Biomorph Resonator Tech
+## 2. Biomorph Resonator Tech
 
 ![Vesper V](http://img2.wikia.nocookie.net/__cb20130114154426/starwars/images/e/e8/Starbasecarida.jpg)
 
@@ -56,7 +56,7 @@ As a rational man, Showzu never took pride in his lab coat's Vesper emblem. He's
 * **EXIT TRANSMISSION** : Resistance : New Leadership
 
 
-## Spice Mines of Kessel
+## 3. Spice Mines of Kessel
 
 ![Kessel](http://vignette1.wikia.nocookie.net/starwars/images/a/ab/Spice_Mines_of_Kessel.png/revision/latest?cb=20140929054610)
 
@@ -97,7 +97,7 @@ It's a great scheme, and it might even have worked, if Yvette Corell hadn't sold
 * **OUTCOME** : Send a Slaver to the Senate as the elected official for Kessel.        
 
 
-## Dark Matter Unplugged
+## 4. Dark Matter Unplugged
 
 ![](http://vignette4.wikia.nocookie.net/starwars/images/8/81/AlderaanRefugeeConference-Assassin.png/revision/latest?cb=20130513020309)
 
@@ -128,7 +128,7 @@ Once arrived on Lothal, the Alexandria crew disembark and walk into a press conf
 * **OUTCOME** : A small batch of Kyber Crystals is mined and shipped to the First Order.
 
 
-## Bazaar Raiders
+## 5. Bazaar Raiders
 
 ![](http://vignette1.wikia.nocookie.net/starwars/images/6/6c/MalganMarketTCW.png/revision/latest?cb=20131017184410)
 
@@ -156,7 +156,7 @@ On behest of the Droid Resistance, the Alexandira sets course for Dantooine, pun
 * Tremmil Losi suggests to Metajj that the galaxy would be a better place without Gibson Mallick - but it would be an _even better_ place if Mallick took up the Senetorial seat for Dantooine, as he would surely be too occupied with torturing other Senetors to address any policy issues.
 **OUTCOME** : Send a Corrupt Merchant to the Senate as the elected official for Dantooine.
 
-## Secrets of Immortality
+## 6. Secrets of Immortality
 
 ![](http://vignette1.wikia.nocookie.net/starwars/images/b/bf/Epguide210.png/revision/latest?cb=20120903164454)
 
@@ -172,7 +172,7 @@ On the remote world of Quell, a relic of another era has taken refuge. Guided by
 * **OPENING TRANSMISSION** : Narrow Eclipse : The Eternal Eclipse
 *
 
-## Kaiber Crystal Cave
+## 7. Kaiber Crystal Cave
 
 ![](http://vignette1.wikia.nocookie.net/starwars/images/8/8c/Ganodi-Crystal_Caves.png/revision/latest?cb=20131019042517)
 
@@ -186,7 +186,7 @@ On the remote world of Quell, a relic of another era has taken refuge. Guided by
 
 **OUTCOME** : Send a child to the Senate as the elected official for Ilum.
 
-## Maz' Smugglers
+## 8. Maz' Smugglers
 
 ![](http://img.lum.dolimg.com/v1/images/maz_s-castle_c40bd1e2.jpeg?region=158%2C0%2C1756%2C878)
 
@@ -212,7 +212,7 @@ Looking for a way to get off-world at a Takodana space port, two Blarina smuggle
     2. Metajj rejects the tribute
         * Showzu is amused by the Blarina's dramatic display, and scans both of them - their volutars join the Alexandira
 
-## Cantina on Ankhural
+## 9. Cantina on Ankhural
 
 ![](http://vignette3.wikia.nocookie.net/starwars/images/0/07/MEC.JPG/revision/latest?cb=20090224163944)
 
@@ -235,7 +235,7 @@ Ankhural's most notorious cantina _Null Vantage_ is infamous for being a safe ha
 * **Exit TRANSMISSION** Resistance : Civil Decay
 
 
-## Knights of Ren
+## 10. Knights of Ren
 
 ![](http://i.imgur.com/7sKn7Be.png)
 
@@ -255,7 +255,7 @@ On Endor, the cunning Knight _Ti Ren_ has taken a hostage. A hostage who proves 
 * **MUSIC** [Revans Theme](https://www.youtube.com/watch?v=PumEuWLv8Ag)
 
 
-## Acolytes of the Narrow Eclipse
+## 11. Acolytes of the Narrow Eclipse
 
 ![](http://vignette4.wikia.nocookie.net/starwars/images/2/2f/CouncilOfNeutralSystems.png/revision/latest?cb=20120905231922)
 
