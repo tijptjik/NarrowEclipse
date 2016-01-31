@@ -20,6 +20,28 @@
 
 "Metajj. Metajj... how far have you come... we owe it to you that the galaxy's most powerful forces are mere puppets for our machinations. We've induldged in shadow play for as long as was needed. Now that both the First Order and the Resistance have secured us as their ally - We shall be true to neither. They've mistaken usefulness for trust, and it shall cost them dearly! Go now, to the Orbital Research Station on Vesper V. There you will recover the technology we need to end this war. Soon we shall lift our Pharosi veil, and herald the era of the Narrow Eclipse!" 
 
+## Narrow Eclipse : The Eternal Eclipse
+
+|       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
+|:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
+|       Suzen Siew       |       Asugen Tano      |     [Togruta][8]     | [Chandrila][24] |      Narrow Eclipse     |
+
+The Pharosi Network
+
+###  Suggested Narrative Points
+
+
+###  Key Narrative Points
+
+
+## Narrow Eclipse : Narrow Eclipse : Twilight Looms
+
+|       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
+|:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
+|       Suzen Siew       |       Asugen Tano      |     [Togruta][8]     | [Chandrila][24] |      Narrow Eclipse     |
+
+
+
 
 ## First Order : Kyber Crystals
 
@@ -195,7 +217,7 @@ Leia has received word on the whereabouts of the Knights of Ren. The Resistance 
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|      Benjamin Hall     |          CZ-7          |   Serv-O-Droid  |    D'Qar   |    Droid Resistance    |
+|      Benjamin Hall     |          CZ-7          |   Serv-O-Droid  |   Shimia   |    Droid Resistance    |
 
 The Droid Resistance is a communications network of droids who exploit the natural chattiness of protocol droids to extract information on the droid trade. Even though only a single droid can be said to be 'aware' of the resistance, all droids which have adopted the 3PO protocol are networked, thus the reach of the resistance is vast. Metajj's protocol droid is sought after by the Droid Resistance as the Pharosi missions take her all across the galaxy. In this particular case the droid resistance is seeking help to recover a Sentinel Droid which a malicious merchant has retrofitted with an entertainment module and now even refuses to sell to a master.
 
