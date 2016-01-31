@@ -261,3 +261,15 @@ To respect the ways of old, Rocco Cavalier, Prime Minister of Zygerria, installe
 |      Hayley Elias      |         Harlan         |    Zygerrian    |  Zygerria  | Zygerrian Slave Empire |
 
 Harlan is the First Empress of the New Zygerrian Slave Empire. Installed at a very young age, Harlan has known little else than the semblance of absolute power. With the years she's come to realise that the more she acts inline with her divine stature, the less tentative her power becomes. 
+
+## Narrow Eclipse
+
+![](https://www.google.com.hk/imgres?imgurl=http://data.techtimes.com/data/images/full/98444/ahsoka-rebels-1-jpg.jpg&imgrefurl=http://www.techtimes.com/articles/61412/20150619/ahsoka-tano-returns-ashley-eckstein-talks-star-wars-rebels-season.htm&h=1080&w=1920&tbnid=yqbAiC2A5sjAZM:&docid=7XX31xY3kc6cWM&ei=l_utVryrH8K7mwXeo4GYAQ&tbm=isch&ved=0ahUKEwj80vKhhNTKAhXC3aYKHd5RABMQMwgoKA0wDQ&biw=1536&bih=794)
+
+|       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
+|:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
+|       Suzen Siew       |       Asugen Tano      |     [Togruta][8]     | [Chandrila][24] |      Narrow Eclipse     |
+
+Asugen Tano, daughter of Ahsoka Tano, has been recruited by the Narrow Eclipse. As her mother before her, she's had a strained relationship with the Force. She thinks the duality of the force would benefit from some nuance, or, if the planets were to align, revision. Where Ahsoka's understanding of the force was mired in years Jedi spin, Asugen's discovery of the force has been more tentative and critical. As a force-sensitive member of the Narrow Eclipse, years of meditative experimentation have helped Asugen reimagine the Force for the Twilight era.
+
+Asugen Tano knows Metajj Vos in an informal capacity, and they would consider each other friends.

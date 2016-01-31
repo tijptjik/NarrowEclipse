@@ -41,7 +41,7 @@ or
 
 ### 6. Quell
 
-<!-- 1. **MEDIA** Narrow Eclipse : The Eternal Eclipse -->
+1. **MEDIA** Narrow Eclipse : The Eternal Eclipse
 
 1. **SCENE** Secrets of Immortality
 1. **MEDIA** Planet Panda : Panda Gathering
@@ -82,6 +82,6 @@ or
 
 ### 11. Chandrila
 
-1. **MEDIA** Narrow Eclipse : Synthesis
+1. **MEDIA** Narrow Eclipse : Twilight Looms 
 1. **SCENE** Acolytes of the Narrow Eclipse
 1. **MEDIA** Credits

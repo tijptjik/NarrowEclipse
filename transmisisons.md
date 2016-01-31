@@ -26,12 +26,19 @@
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
 |       Suzen Siew       |       Asugen Tano      |     [Togruta][8]     | [Chandrila][24] |      Narrow Eclipse     |
 
-The Pharosi Network
+Whispers of the impossible have been flowing through the Pharosi Network - The man with a face of millions sighted on Quell! Quell - an insignificant planet in the Outer Rim, so uneventful that it never had grounds for being mentioned. But that was precisely what made this rumour so plausiable, as Quell was _precisely_ the place where one would go never to be found. The rumour is that two humans, a man and a women - both with the life expectancy of 80 years - hadn't aged for at least 50. This wouldn't have given rise to much excitment, if it weren't for a travel log entry the Pharosi 'obtained' from a traveling Anzit chronicler. He had lived a thousand years, seen and forgotten many faces, but this face was seered in his memory - it was the face of a Clone Trooper, appearing just as it did at the first Battle of Geonosis, over 50 years ago.
 
 ###  Suggested Narrative Points
 
+* Since you know Metajj Vos in an informal capacity, you could elaborate on some personal details you'd want to update her on.
+* Contemplate the various ways in which a person can remain 'unchanged' for 50 years.
+* Contemplate what life eternal would mean, and what a waste it would be to spend it on Quell! 
+* Mention the Clone Wars - how its two sides 'The Seperatists' and 'The Republic' turned out to be one. Mention this parallels with how the 'First Order' and the 'New Republic' are really just two sides necessitated by a one corrupted idealogy of power. With the twilight era upon us, its an ideology the Narrow Eclipse will soon do away with.
 
 ###  Key Narrative Points
+
+* Speak of the rumour and how it came to your attention.
+* Send Metajj Vos to Quell to find out whether this rumour has any merit to it, and if so unravel its secrets.
 
 
 ## Narrow Eclipse : Narrow Eclipse : Twilight Looms
