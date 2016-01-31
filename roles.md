@@ -39,6 +39,7 @@
 |       Simone Trum      |       Itashi Flam      |      [Panda][20]     |   Panda Planet  |       Panda Planet      |
 |     Benjamin James     |       Sappo Karpi      |    [Toydarian][45]   |  [Toydaria][46] |         Spamwaves       |
 |      Tylor Wilson      |        Willa Zusk      |    [Toydarian][45]   |  [Toydaria][46] |         Spamwaves       |
+|       Suzen Siew       |       Asugen Tano      |     [Togruta][8]     | [Chandrila][24] |      Narrow Eclipse     |
 
 
 [1]: http://starwars.wikia.com/wiki/Human
