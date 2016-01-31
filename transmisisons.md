@@ -47,7 +47,18 @@ Whispers of the impossible have been flowing through the Pharosi Network - The m
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
 |       Suzen Siew       |       Asugen Tano      |     [Togruta][8]     | [Chandrila][24] |      Narrow Eclipse     |
 
+The Pharosi agents are all being recalled to the Temple of the Narrow Eclipse where the Grand Noush Augury will elect a Twilight Prime to lead us into the era of the Narrow Eclipse.
 
+###  Suggested Narrative Points
+
+*  Congratulate Metajj with her corruption of the senate. 
+*  Wonder how the Resistance could have survived this long, seeing how lavish trust on everyone who's willing to do them a favour. 
+*  Compliment Metajj with clearing a pathway to the First Order
+
+###  Key Narrative Points
+
+* Mention that the Twilight Era Looms.
+* Grand Augury Noush is recalling all Pharosi Prelates. Request for Metajj Vos to return home. 
 
 
 ## First Order : Kyber Crystals
