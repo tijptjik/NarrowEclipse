@@ -264,7 +264,7 @@ Harlan is the First Empress of the New Zygerrian Slave Empire. Installed at a ve
 
 ## Narrow Eclipse
 
-![](https://www.google.com.hk/imgres?imgurl=http://data.techtimes.com/data/images/full/98444/ahsoka-rebels-1-jpg.jpg&imgrefurl=http://www.techtimes.com/articles/61412/20150619/ahsoka-tano-returns-ashley-eckstein-talks-star-wars-rebels-season.htm&h=1080&w=1920&tbnid=yqbAiC2A5sjAZM:&docid=7XX31xY3kc6cWM&ei=l_utVryrH8K7mwXeo4GYAQ&tbm=isch&ved=0ahUKEwj80vKhhNTKAhXC3aYKHd5RABMQMwgoKA0wDQ&biw=1536&bih=794)
+![](http://data.techtimes.com/data/images/full/98444/ahsoka-rebels-1-jpg.jpg)
 
 |       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
@@ -272,4 +272,54 @@ Harlan is the First Empress of the New Zygerrian Slave Empire. Installed at a ve
 
 Asugen Tano, daughter of Ahsoka Tano, has been recruited by the Narrow Eclipse. As her mother before her, she's had a strained relationship with the Force. She thinks the duality of the force would benefit from some nuance, or, if the planets were to align, revision. Where Ahsoka's understanding of the force was mired in years Jedi spin, Asugen's discovery of the force has been more tentative and critical. As a force-sensitive member of the Narrow Eclipse, years of meditative experimentation have helped Asugen reimagine the Force for the Twilight era.
 
-Asugen Tano knows Metajj Vos in an informal capacity, and they would consider each other friends.
+Asugen Tano knows Metajj Vos in an informal capacity, and they would consider each other friends. Metajj is often t
+
+
+[1]: http://starwars.wikia.com/wiki/Human
+[2]: http://starwars.wikia.com/wiki/Dathomirian
+[3]: http://starwars.wikia.com/wiki/Umbaran
+[4]: http://starwars.wikia.com/wiki/Nikto
+[5]: http://starwars.wikia.com/wiki/Arkanian
+[6]: http://starwars.wikia.com/wiki/Blarina
+[7]: http://starwars.wikia.com/wiki/Cybot_Galactica
+[8]: http://starwars.wikia.com/wiki/Togruta
+[9]: http://starwars.wikia.com/wiki/Kellenech_Technologies
+[10]: http://starwars.wikia.com/wiki/Quarren
+[11]: http://starwars.wikia.com/wiki/Nautolan
+[12]: http://starwars.wikia.com/wiki/Mandalorian
+[13]: http://starwars.wikia.com/wiki/Cloning
+[14]: http://starwars.wikia.com/wiki/Mirialan
+[15]: http://starwars.wikia.com/wiki/Pyke
+[16]: http://starwars.wikia.com/wiki/Serv-O-Droid,_Inc.
+[17]: http://starwars.wikia.com/wiki/Pantoran
+[18]: http://starwars.wikia.com/wiki/Twi%27lek
+[19]: http://starwars.wikia.com/wiki/Zygerrian
+[20]: http://starwars.wikia.com/wiki/Panda
+[21]: http://starwars.wikia.com/wiki/Lothal
+[22]: http://starwars.wikia.com/wiki/Dantooine
+[23]: http://starwars.wikia.com/wiki/Takodana  
+[24]: http://starwars.wikia.com/wiki/Chandrila 
+[25]: http://starwars.wikia.com/wiki/Ilum 
+[26]: http://starwars.wikia.com/wiki/Kessel 
+[27]: http://starwars.wikia.com/wiki/Endor 
+[28]: http://starwars.wikia.com/wiki/Ankhural 
+[29]: http://starwars.wikia.com/wiki/Quell 
+[30]: http://starwars.wikia.com/wiki/D%27Qar
+[31]: http://starwars.wikia.com/wiki/Finalizer 
+[32]: http://starwars.wikia.com/wiki/Tython 
+[33]: http://starwars.wikia.com/wiki/Zygerria 
+[34]: http://starwars.wikia.com/wiki/Merchant/Legends
+[35]: http://starwars.wikia.com/wiki/Maz_Kanata%27s_castle 
+[36]: http://starwars.wikia.com/wiki/Church_of_the_Force
+[37]: http://starwars.wikia.com/wiki/Slavery/Legends
+[38]: http://starwars.wikia.com/wiki/Knights_of_Ren
+[39]: http://starwars.wikia.com/wiki/Death_Watch
+[40]: http://starwars.wikia.com/wiki/Pyke_Syndicate/Legends
+[41]: http://starwars.wikia.com/wiki/Resistance
+[42]: http://starwars.wikia.com/wiki/New_Republic
+[43]: http://starwars.wikia.com/wiki/First_Order
+[44]: http://starwars.wikia.com/wiki/Zygerrian_Slave_Empire
+[45]: http://starwars.wikia.com/wiki/Toydarian
+[46]: http://starwars.wikia.com/wiki/Toydaria
+[47]: http://starwars.wikia.com/wiki/Wookiee
+[48]: http://starwars.wikia.com/wiki/Shimia
