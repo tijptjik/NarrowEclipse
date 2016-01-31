@@ -35,10 +35,11 @@
 - [-] Dikkie Engelen
 - [x] Ivar Posthumus
 - [x] Janneke Vissers
-- [ ] Dan Elias
-- [ ] Hayley Elias
+- [x] Dan Elias
+- [x] Hayley Elias
 - [x] Benjamin James
 - [x] Taylor Wilson
+- [ ] Suzen Siew
 
 # Unavailable
 
