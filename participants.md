@@ -8,19 +8,19 @@
 - [x] Claudio Canzonetta
 - [x] Emma Rennell
 - [x] William Lawrenson
-- [-] Connie Leung
-- [-] Anis Sfeir
-- [ ] Egill Bjarki Jónsson
-- [ ] Helga Björk Jónsdóttir
+- [x] Connie Leung
+- [x] Anis Sfeir
+- [x] Egill Bjarki Jónsson
+- [x] Helga Björk Jónsdóttir
 - [x] Maegan Cowan
 - [x] Ivo Hos
 - [x] Toby Fung
-- [x] Jane Pong
-- [-] Alex Bedwell
-- [x] Jamie Edwards
-- [ ] Bill McCord
-- [ ] Nadira Lamrad
-- [-] YH Chia
+- [-] Jane Pong
+- [x] Alex Bedwell
+- [-] Jamie Edwards
+- [x] Bill McCord
+- [x] Nadira Lamrad
+- [x] YH Chia
 - [x] Richard Abs
 
 
@@ -31,8 +31,8 @@
 - [x] Rayla Heide
 - [x] Kent Sutherland
 - [x] Isak Ladegaard
-- [-] Niels van der Linden
-- [-] Dikkie Engelen
+- [x] Niels van der Linden
+- [x] Dikkie Engelen
 - [x] Ivar Posthumus
 - [x] Janneke Vissers
 - [x] Dan Elias
