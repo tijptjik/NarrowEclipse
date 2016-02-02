@@ -35,7 +35,7 @@ or
 ### 5. Dantooine
 
 1. **MEDIA** Droid : Droid Resistance 
-1. **SCENE** Bazaar Raiders 
+1. **SCENE** Bazaar Raiders
 
 ---
 

@@ -1,6 +1,6 @@
 # Participants 
 
-- [x] Sherin Siew
+- [ ] Sherin Siew
 - [x] Mart van de Ven
 - [x] Oliva Madrid
 - [x] Matt Nodurft
@@ -8,19 +8,19 @@
 - [x] Claudio Canzonetta
 - [x] Emma Rennell
 - [x] William Lawrenson
-- [-] Connie Leung
-- [-] Anis Sfeir
-- [ ] Egill Bjarki Jónsson
-- [ ] Helga Björk Jónsdóttir
+- [ ] Connie Leung
+- [ ] Anis Sfeir
+- [x] Egill Bjarki Jónsson
+- [x] Helga Björk Jónsdóttir
 - [x] Maegan Cowan
 - [x] Ivo Hos
 - [x] Toby Fung
-- [x] Jane Pong
-- [-] Alex Bedwell
-- [x] Jamie Edwards
-- [ ] Bill McCord
-- [ ] Nadira Lamrad
-- [-] YH Chia
+- [ ] Jane Pong
+- [x] Alex Bedwell
+- [ ] Jamie Edwards
+- [x] Bill McCord
+- [x] Nadira Lamrad
+- [ ] YH Chia
 - [x] Richard Abs
 
 
