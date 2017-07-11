@@ -20,6 +20,46 @@
 
 "Metajj. Metajj... how far have you come... we owe it to you that the galaxy's most powerful forces are mere puppets for our machinations. We've induldged in shadow play for as long as was needed. Now that both the First Order and the Resistance have secured us as their ally - We shall be true to neither. They've mistaken usefulness for trust, and it shall cost them dearly! Go now, to the Orbital Research Station on Vesper V. There you will recover the technology we need to end this war. Soon we shall lift our Pharosi veil, and herald the era of the Narrow Eclipse!" 
 
+## Narrow Eclipse : The Eternal Eclipse
+
+|       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
+|:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
+|       Suzen Siew       |       Asugen Tano      |     [Togruta][8]     | [Chandrila][24] |      Narrow Eclipse     |
+
+Whispers of the impossible have been flowing through the Pharosi Network - The man with a face of millions sighted on Quell! Quell - an insignificant planet in the Outer Rim, so uneventful that it never had grounds for being mentioned. But that was precisely what made this rumour so plausiable, as Quell was _precisely_ the place where one would go never to be found. The rumour is that two humans, a man and a women - both with the life expectancy of 80 years - hadn't aged for at least 50. This wouldn't have given rise to much excitment, if it weren't for a travel log entry the Pharosi 'obtained' from a traveling Anzit chronicler. He had lived a thousand years, seen and forgotten many faces, but this face was seered in his memory - it was the face of a Clone Trooper, appearing just as it did at the first Battle of Geonosis, over 50 years ago.
+
+###  Suggested Narrative Points
+
+* Since you know Metajj Vos in an informal capacity, you could elaborate on some personal details you'd want to update her on.
+* Contemplate the various ways in which a person can remain 'unchanged' for 50 years.
+* Contemplate what life eternal would mean, and what a waste it would be to spend it on Quell! 
+* Mention the Clone Wars - how its two sides 'The Seperatists' and 'The Republic' turned out to be one. Mention this parallels with how the 'First Order' and the 'New Republic' are really just two sides necessitated by a one corrupted idealogy of power. With the twilight era upon us, its an ideology the Narrow Eclipse will soon do away with.
+
+###  Key Narrative Points
+
+* Speak of the rumour and how it came to your attention.
+* Send Metajj Vos to Quell to find out whether this rumour has any merit to it, and if so unravel its secrets.
+
+
+## Narrow Eclipse : Narrow Eclipse : Twilight Looms
+
+|       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
+|:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
+|       Suzen Siew       |       Asugen Tano      |     [Togruta][8]     | [Chandrila][24] |      Narrow Eclipse     |
+
+The Pharosi agents are all being recalled to the Temple of the Narrow Eclipse where the Grand Noush Augury will elect a Twilight Prime to lead us into the era of the Narrow Eclipse.
+
+###  Suggested Narrative Points
+
+*  Congratulate Metajj with her corruption of the senate. 
+*  Wonder how the Resistance could have survived this long, seeing how lavish trust on everyone who's willing to do them a favour. 
+*  Compliment Metajj with clearing a pathway to the First Order
+
+###  Key Narrative Points
+
+* Mention that the Twilight Era Looms.
+* Grand Augury Noush is recalling all Pharosi Prelates. Request for Metajj Vos to return home. 
+
 
 ## First Order : Kyber Crystals
 
@@ -195,7 +235,7 @@ Leia has received word on the whereabouts of the Knights of Ren. The Resistance 
 
 |       Participant      |        Character       |     Species     |  Location  |       Allegiance       |
 |:----------------------:|:----------------------:|:---------------:|:----------:|:----------------------:|
-|      Benjamin Hall     |          CZ-7          |   Serv-O-Droid  |    D'Qar   |    Droid Resistance    |
+|      Benjamin Hall     |          CZ-7          |   Serv-O-Droid  |   Shimia   |    Droid Resistance    |
 
 The Droid Resistance is a communications network of droids who exploit the natural chattiness of protocol droids to extract information on the droid trade. Even though only a single droid can be said to be 'aware' of the resistance, all droids which have adopted the 3PO protocol are networked, thus the reach of the resistance is vast. Metajj's protocol droid is sought after by the Droid Resistance as the Pharosi missions take her all across the galaxy. In this particular case the droid resistance is seeking help to recover a Sentinel Droid which a malicious merchant has retrofitted with an entertainment module and now even refuses to sell to a master.
 

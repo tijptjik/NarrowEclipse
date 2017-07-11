@@ -85,3 +85,7 @@
 |       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
 |:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
 |       Richard Abs      |      D'lore Mantra     |       [Pyke][15]     |   [Kessel][26]  |   [Pyke Syndicate][40]  |
+
+|       Participant      |        Character       |     Species          |   Location      |        Allegiance       |
+|:----------------------:|:----------------------:|:--------------------:|:---------------:|:-----------------------:|
+|       Suzen Siew       |       Asugen Tano      |     [Togruta][8]     | [Chandrila][24] |      Narrow Eclipse     |

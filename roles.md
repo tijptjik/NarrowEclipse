@@ -26,7 +26,7 @@
 |      Nadira Lamrad     |      Qaxis Quarll      |     [Twi'lek][18]    |    [Quell][29]  |       Independent       |
 |         YH Chia        |      Pyremane Sash     |     [Mirialan][14]   |    [Endor][27]  |      Narrow Eclipse     |
 |       Richard Abs      |      D'lore Mantra     |       [Pyke][15]     |   [Kessel][26]  |   [Pyke Syndicate][40]  |
-|      Benjamin Hall     |          CZ-7          |   [Serv-O-Droid][16] |    [D'Qar][30]  |     Droid Resistance    |
+|      Benjamin Hall     |          CZ-7          |   [Serv-O-Droid][16] |   [Shimia][48]  |     Droid Resistance    |
 |       Rayla Heide      |     Zaphira Renlith    |      [Human][1]      |    [D'Qar][30]  |     [Resistance][41]    |
 |     Kent Sutherland    |      Orphoon Wells     |     [Pantoran][17]   | [Chandrila][24] |    [New Republic][42]   |
 |     Isak Ladegaard     |    Commandant Luger    |      [Human][1]      | [Finalizer][31] |     [First Order][42]   |
@@ -39,6 +39,7 @@
 |       Simone Trum      |       Itashi Flam      |      [Panda][20]     |   Panda Planet  |       Panda Planet      |
 |     Benjamin James     |       Sappo Karpi      |    [Toydarian][45]   |  [Toydaria][46] |         Spamwaves       |
 |      Tylor Wilson      |        Willa Zusk      |    [Toydarian][45]   |  [Toydaria][46] |         Spamwaves       |
+|       Suzen Siew       |       Asugen Tano      |     [Togruta][8]     | [Chandrila][24] |      Narrow Eclipse     |
 
 
 [1]: http://starwars.wikia.com/wiki/Human
@@ -88,3 +89,4 @@
 [45]: http://starwars.wikia.com/wiki/Toydarian
 [46]: http://starwars.wikia.com/wiki/Toydaria
 [47]: http://starwars.wikia.com/wiki/Wookiee
+[48]: http://starwars.wikia.com/wiki/Shimia
